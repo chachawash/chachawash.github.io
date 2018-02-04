@@ -12,10 +12,22 @@
       <image:loc>https://chachawash.github.io/images/logotype-black_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/home-cht-eng-jap-animation.gif</image:loc>
+      <image:loc>https://chachawash.github.io/images/home-cht-animation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/home-cht-eng-jap-animation_2x.gif</image:loc>
+      <image:loc>https://chachawash.github.io/images/home-cht-animation_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/home-eng-animation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/home-eng-animation_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/home-jap-animation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/home-jap-animation_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/home-languages.png</image:loc>
