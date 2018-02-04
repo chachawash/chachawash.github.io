@@ -1,0 +1,1131 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1517648147270">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="cht.css" crc="87518322" ref="cht"/>
+    <file name="jap.css" crc="104695798" ref="jap"/>
+    <file name="index.css" crc="4078752741" ref="index"/>
+    <file name="eng.css" crc="489627991" ref="eng"/>
+  </folder>
+  <folder name="assets">
+    <file name="chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" crc="4120895493" seo="true" mt="1514207833000"/>
+    <file name="chacha_bgv_14s_lesscontrast_720x540_3.67mb.ogg" crc="3913444628" seo="true" mt="1514384901000"/>
+    <file name="chacha_bgv_14s_lesscontrast_720x540_2.62mb.webm" crc="83245735" seo="true" mt="1514382068000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="jap:cht:eng:index"/>
+    <file name="museutils.js" crc="3803043152" ref="jap:cht:eng:index"/>
+    <file name="whatinput.js" crc="86476730" ref="jap:cht:eng:index"/>
+    <file name="museconfig.js" crc="4153641093" ref="jap:cht:eng:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="jap:cht:eng:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="jap:cht:eng"/>
+    <file name="webpro.js" crc="242022427" ref="jap:cht:eng"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="jap:cht:eng"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="jap:cht:eng"/>
+    <file name="touchswipe.js" crc="4066113679" ref="jap:cht:eng"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="jap:cht:eng"/>
+    <file name="require.js" crc="4157109226" ref="jap:cht:eng:index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="357807509" ref="jap"/>
+    <file name="icons-wallpaper.gif" crc="127632304" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icons-wallpaper_2x.gif" crc="127632304" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-22.png" crc="4233489028" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-22_2x.png" crc="4280238332" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-39-city-4.png" crc="450517103" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-39-city-4_2x.png" crc="3818214135" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-40-city-5.png" crc="3991357594" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-40-city-5_2x.png" crc="3991357594" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-41-city-6.png" crc="386957759" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-41-city-6_2x.png" crc="386957759" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-42-city-7.png" crc="453255648" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-42-city-7_2x.png" crc="453255648" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-23.png" crc="176158990" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-23_2x.png" crc="3853085277" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-43-city-8.png" crc="467987262" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-43-city-8_2x.png" crc="499102442" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-44-city-9.png" crc="4087722621" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-44-city-9_2x.png" crc="4087722621" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-45-city-10.png" crc="258263091" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-45-city-10_2x.png" crc="258263091" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-46-city-11.png" crc="302443335" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-46-city-11_2x.png" crc="302443335" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-24.png" crc="18531547" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-24_2x.png" crc="4186469145" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-47-city-12.png" crc="180254215" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-47-city-12_2x.png" crc="4140829056" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-48-city-13.png" crc="267616222" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-48-city-13_2x.png" crc="267616222" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-49-city-14.png" crc="226065680" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-49-city-14_2x.png" crc="226065680" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-50-city-15.png" crc="239716307" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-50-city-15_2x.png" crc="239716307" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-25.png" crc="4117829050" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-25_2x.png" crc="100317280" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-51-city-16.png" crc="3847048179" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-51-city-16_2x.png" crc="66763728" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-52-city-17.png" crc="4165473655" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-52-city-17_2x.png" crc="4165473655" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-53-city-18.png" crc="4241521322" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-53-city-18_2x.png" crc="4241521322" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-54-city-19.png" crc="47274212" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-54-city-19_2x.png" crc="47274212" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="pile.jpg" crc="3898495490" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-58-info-1.png" crc="200683727" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-58-info-1_2x.png" crc="334087242" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="05-plant.png" crc="340110020" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="05-plant_2x.png" crc="3977644402" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-12-baby-4.png" crc="3936174419" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-12-baby-4_2x.png" crc="3936174419" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-13-baby-5.png" crc="88410473" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-13-baby-5_2x.png" crc="88410473" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-14-baby-6.png" crc="4196945751" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-14-baby-6_2x.png" crc="32831648" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-17-baby-9.png" crc="4064620856" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-17-baby-9_2x.png" crc="4064620856" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="08-wind.gif" crc="3842909784" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="08-wind_2x.gif" crc="3842909784" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-18-baby-10.png" crc="4238524841" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-18-baby-10_2x.png" crc="4238524841" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="09-hand.gif" crc="141101434" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="09-hand_2x.gif" crc="141101434" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="10-space.gif" crc="316084786" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="10-space_2x.gif" crc="316084786" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-19-baby-11.png" crc="173867048" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-19-baby-11_2x.png" crc="173867048" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-23-camp-4.png" crc="4007973641" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-23-camp-4_2x.png" crc="4007973641" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-24-camp-5.png" crc="501648700" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-24-camp-5_2x.png" crc="501648700" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-25-camp-6.png" crc="407714558" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-25-camp-6_2x.png" crc="407714558" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="11-make.png" crc="3866376470" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="11-make_2x.png" crc="3816680845" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-26-camp-7.png" crc="490046621" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-26-camp-7_2x.png" crc="4096198966" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="15-7n.gif" crc="94213686" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="15-7n_2x.gif" crc="94213686" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="16-15p.gif" crc="4093890473" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="16-15p_2x.gif" crc="4093890473" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-27-camp-8.png" crc="360419013" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-27-camp-8_2x.png" crc="360419013" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-28-camp-9.png" crc="3845355865" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-28-camp-9_2x.png" crc="4062595645" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-29-camp-10.png" crc="3852777994" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-29-camp-10_2x.png" crc="3852777994" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-30-camp-11.png" crc="4091780871" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-30-camp-11_2x.png" crc="377180494" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="07-volume.gif" crc="90328852" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="07-volume_2x.gif" crc="90328852" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-31-camp-12.png" crc="220237861" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-31-camp-12_2x.png" crc="4261557336" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-32-camp-13.png" crc="31733493" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-32-camp-13_2x.png" crc="4103614377" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-33-camp-14.png" crc="340237963" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-33-camp-14_2x.png" crc="340237963" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-34-camp-15.png" crc="4021656054" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-34-camp-15_2x.png" crc="4021656054" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="12-dry.gif" crc="154904804" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="12-dry_2x.gif" crc="154904804" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-35-camp-16.png" crc="180751525" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-35-camp-16_2x.png" crc="180751525" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="13-fire.gif" crc="391272305" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="13-fire_2x.gif" crc="391272305" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="14-kid.gif" crc="3780294257" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="14-kid_2x.gif" crc="3780294257" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="powder.jpg" crc="100797667" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="sponge.jpg" crc="69253256" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="04-liquid.gif" crc="3894136786" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="04-liquid_2x.gif" crc="3894136786" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-08-kitchen-7.png" crc="4251615276" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-08-kitchen-7_2x.png" crc="278939658" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="water.jpg" crc="522807671" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-07-kitchen-6.png" crc="208798741" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-07-kitchen-6_2x.png" crc="208798741" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="02-water.gif" crc="3912942055" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="02-water_2x.gif" crc="3912942055" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="jap:cht:eng"/>
+    <file name="03-dissolve.gif" crc="3932838838" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="03-dissolve_2x.gif" crc="3932838838" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="jap:cht:eng"/>
+    <file name="hero.jpg" crc="3773697070" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-05-kitchen-4.png" crc="522514334" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-05-kitchen-4_2x.png" crc="522514334" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="01-cube.gif" crc="354959980" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="01-cube_2x.gif" crc="354959980" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-06-kitchen-5.png" crc="3946907343" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-06-kitchen-5_2x.png" crc="3946907343" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="06-molecule.png" crc="3943198181" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="06-molecule_2x.png" crc="4109473538" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-15-baby-7.png" crc="4050533898" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-15-baby-7_2x.png" crc="89424054" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-16-baby-8.png" crc="4272142528" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-16-baby-8_2x.png" crc="4272142528" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="v2_kitchen.jpg" crc="384185094" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="logotype-white.png" crc="3910669480" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="logotype-white_2x.png" crc="115050613" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-01-intro.png" crc="3771636787" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-01-intro_2x.png" crc="415952189" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-02-kitchen-1.png" crc="3862099434" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-02-kitchen-1_2x.png" crc="3854060211" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-06-cooking.gif" crc="3939940698" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-06-cooking_2x.gif" crc="3939940698" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-03-kitchen-2.png" crc="279188112" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-03-kitchen-2_2x.png" crc="349270626" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-03-nothing.gif" crc="3985959735" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-03-nothing_2x.gif" crc="3985959735" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-04-kitchen-3.png" crc="196066271" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-04-kitchen-3_2x.png" crc="285946945" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="v2_nursing.jpg" crc="4294646181" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-09-baby-1.png" crc="4166487205" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-09-baby-1_2x.png" crc="3796042719" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-11-baby.gif" crc="4039370387" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-11-baby_2x.gif" crc="4039370387" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-10-baby-2.png" crc="3984186063" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-10-baby-2_2x.png" crc="4092916205" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-12-see.gif" crc="182679082" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-12-see_2x.gif" crc="182679082" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-11-baby-3.png" crc="336664633" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-11-baby-3_2x.png" crc="275023854" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="v2-camping.jpg" crc="498570768" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-20-camp-1.png" crc="121797165" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-20-camp-1_2x.png" crc="3883258083" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-02-trace.gif" crc="252731766" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-02-trace_2x.gif" crc="252731766" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-21-camp-2.png" crc="4022859351" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-21-camp-2_2x.png" crc="3907242490" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-01-camping.gif" crc="4061043997" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-01-camping_2x.gif" crc="4061043997" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-22-camp-3.png" crc="3853760294" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-22-camp-3_2x.png" crc="4018029884" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="v2-city.jpg" crc="3809922589" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-36-city-1.png" crc="3815245836" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-36-city-1_2x.png" crc="3991611973" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-20-cycle.gif" crc="4166977336" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-20-cycle_2x.gif" crc="4166977336" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-37-city-2.png" crc="15930365" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-37-city-2_2x.png" crc="156043847" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-19-molecule.gif" crc="3778014626" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="icon-19-molecule_2x.gif" crc="3778014626" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-38-city-3.png" crc="4278706317" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-38-city-3_2x.png" crc="3833493432" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="v2-plant.jpg" crc="4179336974" ref="jap:cht:eng">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-55-design-1.png" crc="3822149792" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-55-design-1_2x.png" crc="3904754790" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="gmark-typeg-white-red.png" crc="257223101" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="gmark-typeg-white-red_2x.png" crc="257223101" seo="true" ref="jap:cht:eng">
+      <caption webpage="cht" alt=""/>
+      <caption webpage="eng" alt=""/>
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-56-design-2.png" crc="499211757" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-56-design-2_2x.png" crc="310044226" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-57-design-3.png" crc="366836126" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-57-design-3_2x.png" crc="350105088" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-00-menu.png" crc="110971514" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="jap-00-menu_2x.png" crc="110971514" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="logotype-black72x120.png" crc="3767526137" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="logotype-black72x120_2x.png" crc="3861681212" seo="true" ref="jap">
+      <caption webpage="jap" alt=""/>
+    </file>
+    <file name="cht-39-city-4.png" crc="194493589" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-39-city-4_2x.png" crc="116568858" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-40-city-5.png" crc="4203364507" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-40-city-5_2x.png" crc="4203364507" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-41-city-6.png" crc="3782504824" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-41-city-6_2x.png" crc="3782504824" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-42-city-7.png" crc="4249061265" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-42-city-7_2x.png" crc="4249061265" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-43-city-8.png" crc="3888913274" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-43-city-8_2x.png" crc="277916160" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-44-city-9.png" crc="4016700852" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-44-city-9_2x.png" crc="4016700852" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-45-city-10.png" crc="3855665915" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-45-city-10_2x.png" crc="3855665915" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-46-city-11.png" crc="3775689258" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-46-city-11_2x.png" crc="3775689258" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-47-city-12.png" crc="4053789425" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-47-city-12_2x.png" crc="512971112" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-48-city-13.png" crc="403409638" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-48-city-13_2x.png" crc="403409638" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-49-city-14.png" crc="278105468" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-49-city-14_2x.png" crc="278105468" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-50-city-15.png" crc="197382849" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-50-city-15_2x.png" crc="197382849" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-51-city-16.png" crc="4072007802" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-51-city-16_2x.png" crc="3872934813" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-52-city-17.png" crc="392970201" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-52-city-17_2x.png" crc="392970201" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-53-city-18.png" crc="4012495567" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-53-city-18_2x.png" crc="4012495567" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-54-city-19.png" crc="4241933889" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-54-city-19_2x.png" crc="4241933889" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-58-info-1.png" crc="3782985086" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-58-info-1_2x.png" crc="4268304841" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-12-baby-4.png" crc="4246882914" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-12-baby-4_2x.png" crc="4246882914" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-13-baby-5.png" crc="3789358893" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-13-baby-5_2x.png" crc="3789358893" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-14-baby-6.png" crc="3906409576" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-14-baby-6_2x.png" crc="3906409576" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-17-baby-9.png" crc="381676722" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-17-baby-9_2x.png" crc="381676722" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-18-baby-10.png" crc="3947178565" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-18-baby-10_2x.png" crc="3947178565" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-19-baby-11.png" crc="38340546" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-19-baby-11_2x.png" crc="38340546" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-23-camp-4.png" crc="42539965" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-23-camp-4_2x.png" crc="42539965" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-24-camp-5.png" crc="3974261024" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-24-camp-5_2x.png" crc="3974261024" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-25-camp-6.png" crc="3786318897" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-25-camp-6_2x.png" crc="3786318897" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-26-camp-7.png" crc="84787923" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-26-camp-7_2x.png" crc="84787923" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-27-camp-8.png" crc="87772959" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-27-camp-8_2x.png" crc="87772959" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-28-camp-9.png" crc="4031472579" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-28-camp-9_2x.png" crc="4031472579" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-29-camp-10.png" crc="314283385" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-29-camp-10_2x.png" crc="314283385" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-30-camp-11.png" crc="4134994178" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-30-camp-11_2x.png" crc="4134994178" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-31-camp-12.png" crc="497331950" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-31-camp-12_2x.png" crc="497331950" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-32-camp-13.png" crc="4265760126" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-32-camp-13_2x.png" crc="4265760126" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-33-camp-14.png" crc="314364930" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-33-camp-14_2x.png" crc="314364930" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-34-camp-15.png" crc="359235691" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-34-camp-15_2x.png" crc="474981590" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-35-camp-16.png" crc="3796848477" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-35-camp-16_2x.png" crc="3796848477" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-08-kitchen-7.png" crc="3927705474" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-08-kitchen-7_2x.png" crc="3927705474" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-07-kitchen-6.png" crc="378514789" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-07-kitchen-6_2x.png" crc="378514789" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-05-kitchen-4.png" crc="86327553" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-05-kitchen-4_2x.png" crc="86327553" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-06-kitchen-5.png" crc="470532273" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-06-kitchen-5_2x.png" crc="470532273" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-15-baby-7.png" crc="252752289" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-15-baby-7_2x.png" crc="252752289" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-16-baby-8.png" crc="425078094" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-16-baby-8_2x.png" crc="425078094" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-01-intro.png" crc="4246525572" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-01-intro_2x.png" crc="120786842" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-02-kitchen-1.png" crc="56484612" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-02-kitchen-1_2x.png" crc="4242064393" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-03-kitchen-2.png" crc="4195530528" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-03-kitchen-2_2x.png" crc="4008240304" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-04-kitchen-3.png" crc="134558450" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-04-kitchen-3_2x.png" crc="56885097" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-09-baby-1.png" crc="278450979" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-09-baby-1_2x.png" crc="4105844350" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-10-baby-2.png" crc="383609663" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-10-baby-2_2x.png" crc="3846197118" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-11-baby-3.png" crc="4041151217" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-11-baby-3_2x.png" crc="3785844092" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-20-camp-1.png" crc="3815090093" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-20-camp-1_2x.png" crc="3983209218" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-21-camp-2.png" crc="3807431607" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-21-camp-2_2x.png" crc="3911574376" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-22-camp-3.png" crc="4140226624" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-22-camp-3_2x.png" crc="162337474" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-36-city-1.png" crc="490342476" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-36-city-1_2x.png" crc="3854103801" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-37-city-2.png" crc="3789023901" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-37-city-2_2x.png" crc="3987392518" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-38-city-3.png" crc="4056309863" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-38-city-3_2x.png" crc="3891670217" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-55-design-1.png" crc="4067033796" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-55-design-1_2x.png" crc="333959645" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-56-design-2.png" crc="384100394" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-56-design-2_2x.png" crc="386485193" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-57-design-3.png" crc="4066142701" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-57-design-3_2x.png" crc="4258079551" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-00-menu.png" crc="3848175730" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="cht-00-menu_2x.png" crc="3848175730" seo="true" ref="cht">
+      <caption webpage="cht" alt=""/>
+    </file>
+    <file name="logotype-black.png" crc="450156121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-black_2x.png" crc="3861681212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cht-01-intro-home.png" crc="4035750383" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cht-01-intro-home_2x.png" crc="3761736926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enter.gif" crc="3992296681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enter_2x.gif" crc="3992296681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="jap.html" crc="4093815250" seo="true" mt="1517648124179" redirect="true"/>
+  <file name="cht.html" crc="3768620471" seo="true" mt="1517648124178" redirect="true"/>
+  <file name="eng.html" crc="404220259" seo="true" mt="1517648124177" redirect="true"/>
+  <file name="index.html" crc="376754372" seo="true" mt="1517648081588" redirect="true"/>
+</manifest>
