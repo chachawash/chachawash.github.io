@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chachawash.github.io/index.html</loc>
-    <lastmod>2018-02-03</lastmod>
+    <lastmod>2018-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12,21 +12,21 @@
       <image:loc>https://chachawash.github.io/images/logotype-black_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/cht-01-intro-home.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/home-cht-eng-jap-animation.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/cht-01-intro-home_2x.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/home-cht-eng-jap-animation_2x.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/enter.gif</image:loc>
+      <image:loc>https://chachawash.github.io/images/home-languages.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/enter_2x.gif</image:loc>
+      <image:loc>https://chachawash.github.io/images/home-languages_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://chachawash.github.io/jap.html</loc>
-    <lastmod>2018-02-03</lastmod>
+    <loc>https://chachawash.github.io/jp.html</loc>
+    <lastmod>2018-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -571,8 +571,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://chachawash.github.io/cht.html</loc>
-    <lastmod>2018-02-03</lastmod>
+    <loc>https://chachawash.github.io/tw.html</loc>
+    <lastmod>2018-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1111,8 +1111,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://chachawash.github.io/eng.html</loc>
-    <lastmod>2018-02-03</lastmod>
+    <loc>https://chachawash.github.io/en.html</loc>
+    <lastmod>2018-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
