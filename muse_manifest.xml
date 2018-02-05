@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1517743232979">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1517841216717">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="jp.css" crc="104695798" ref="jp"/>
-    <file name="index.css" crc="452994953" ref="index"/>
-    <file name="tw.css" crc="87518322" ref="tw"/>
-    <file name="en.css" crc="407618112" ref="en"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="4216476631" ref="index"/>
+    <file name="jp.css" crc="496759425" ref="jp"/>
+    <file name="en.css" crc="4173813387" ref="en"/>
+    <file name="tw.css" crc="237787622" ref="tw"/>
   </folder>
   <folder name="assets">
     <file name="chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" crc="4120895493" seo="true" mt="1514207833000"/>
@@ -18,15 +18,15 @@
     <file name="museconfig.js" crc="4153641093" ref="jp:tw:en:index"/>
     <file name="jquery.watch.js" crc="99325471" ref="jp:tw:en:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="jp:tw:en"/>
-    <file name="webpro.js" crc="242022427" ref="jp:tw:en:index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="jp:tw:en:index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="jp:tw:en:index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="jp:tw:en:index"/>
+    <file name="webpro.js" crc="242022427" ref="jp:tw:en"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="jp:tw:en"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="jp:tw:en"/>
+    <file name="touchswipe.js" crc="4066113679" ref="jp:tw:en"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="jp:tw:en"/>
     <file name="require.js" crc="4157109226" ref="jp:tw:en:index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="jp:index"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="jp"/>
     <file name="icons-wallpaper.gif" crc="127632304" ref="jp:tw:en">
       <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
@@ -469,7 +469,7 @@
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="jp:tw:en:index"/>
+    <file name="blank.gif" crc="4208392903" ref="jp:tw:en"/>
     <file name="03-dissolve.gif" crc="3932838838" seo="true" ref="jp:tw:en">
       <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
@@ -480,7 +480,7 @@
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="jp:tw:en:index"/>
+    <file name="loading.gif" crc="3815509949" ref="jp:tw:en"/>
     <file name="hero.jpg" crc="3773697070" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
     </file>
@@ -1111,22 +1111,10 @@
     <file name="logotype-black_2x.png" crc="3861681212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home-cht-animation.png" crc="140491317" seo="true" ref="index">
+    <file name="jap-01-intro-home.png" crc="322086817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home-cht-animation_2x.png" crc="3940671869" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home-eng-animation.png" crc="3870389622" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home-eng-animation_2x.png" crc="4226480231" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home-jap-animation.png" crc="367311401" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home-jap-animation_2x.png" crc="3979006154" seo="true" ref="index">
+    <file name="jap-01-intro-home_2x.png" crc="191590167" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home-languages.png" crc="4174782420" seo="true" ref="index">
@@ -1136,8 +1124,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="jp.html" crc="4178134041" seo="true" mt="1517730988740" redirect="true"/>
-  <file name="tw.html" crc="4284135158" seo="true" mt="1517730988742" redirect="true"/>
-  <file name="en.html" crc="164061126" seo="true" mt="1517730988743" redirect="true"/>
-  <file name="index.html" crc="3975663108" seo="true" mt="1517743216788" redirect="true"/>
+  <file name="jp.html" crc="4103006549" seo="true" mt="1517730988740" redirect="true"/>
+  <file name="tw.html" crc="133808795" seo="true" mt="1517730988742" redirect="true"/>
+  <file name="en.html" crc="3758472667" seo="true" mt="1517730988743" redirect="true"/>
+  <file name="index.html" crc="4090119672" seo="true" mt="1517840931119" redirect="true"/>
 </manifest>

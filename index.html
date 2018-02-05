@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html class="nojs html css_verticalspacer" lang="en-US">
  <head>
 
@@ -10,21 +10,21 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/a-master-favicon.ico?crc=357807509"/>
   <title>茶茶</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3779915718"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=452994953" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=229390053"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4216476631" id="pagesheet"/>
     <!--HTML Widget code-->
   
  <style>
 #video_background {
 				position: fixed;
 				bottom: 0px;
-				left: 0px;
+				right: 0px;
 				min-width: 100%;
 				min-height: 100%;
 				width: auto;
@@ -43,7 +43,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="size_fixed colelem" id="u51116"><!-- custom html -->
      
 
-<video id="video_background"   muted loop  autoplay playsinline>
+<video id="video_background"   muted loop  autoplay>
     <source src="assets/chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" type="video/mp4">
     <source src="assets/chacha_bgv_14s_lesscontrast_720x540_3.67mb.ogg" type="video/ogg">
     <source src="assets/chacha_bgv_14s_lesscontrast_720x540_2.62mb.webm" type="video/webm">
@@ -55,14 +55,8 @@ Your browser does not support the video tag.
     <div class="clip_frame colelem" id="u50991"><!-- image -->
      <img class="block" id="u50991_img" src="images/logotype-black.png?crc=450156121" data-hidpi-src="images/logotype-black_2x.png?crc=3861681212" alt="" width="108" height="180"/>
     </div>
-    <div class="SlideShowWidget clearfix colelem" id="slideshowu53074"><!-- none box -->
-     <div class="popup_anchor" id="u53080popup">
-      <div class="SlideShowContentPanel clearfix" id="u53080"><!-- stack box -->
-       <a class="nonblock nontext SSSlide clip_frame grpelem" id="u53083" href="tw.html"><!-- image --><img class="block ImageInclude" id="u53083_img" data-src="images/home-cht-animation.png?crc=140491317" data-hidpi-src="images/home-cht-animation_2x.png?crc=3940671869" src="images/blank.gif?crc=4208392903" alt="" data-width="850" data-height="154"/></a>
-       <a class="nonblock nontext SSSlide invi clip_frame grpelem" id="u53195" href="en.html"><!-- image --><img class="block ImageInclude" id="u53195_img" data-src="images/home-eng-animation.png?crc=3870389622" data-hidpi-src="images/home-eng-animation_2x.png?crc=4226480231" src="images/blank.gif?crc=4208392903" alt="" data-width="850" data-height="154"/></a>
-       <a class="nonblock nontext SSSlide invi clip_frame grpelem" id="u53221" href="jp.html"><!-- image --><img class="block ImageInclude" id="u53221_img" data-src="images/home-jap-animation.png?crc=367311401" data-hidpi-src="images/home-jap-animation_2x.png?crc=3979006154" src="images/blank.gif?crc=4208392903" alt="" data-width="850" data-height="154"/></a>
-      </div>
-     </div>
+    <div class="clip_frame colelem" id="u53251"><!-- image -->
+     <img class="block" id="u53251_img" src="images/jap-01-intro-home.png?crc=322086817" data-hidpi-src="images/jap-01-intro-home_2x.png?crc=191590167" alt="" width="850" height="154"/>
     </div>
     <div class="clearfix colelem" id="pu52868"><!-- group -->
      <div class="clip_frame grpelem" id="u52868"><!-- image -->
@@ -86,13 +80,12 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.initWidget('#slideshowu53074', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:5000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:false,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu53074 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
