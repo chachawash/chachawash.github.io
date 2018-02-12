@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1518419722534">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1518420053073">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4216476631" ref="index"/>
@@ -26,7 +26,7 @@
     <file name="require.js" crc="4157109226" ref="jp:tw:en:index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="jp"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="jp:index"/>
     <file name="icons-wallpaper.gif" crc="127632304" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
@@ -1130,15 +1130,15 @@
     <file name="home-languages_2x.png" crc="38932069" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home-intro.png" crc="4083921506" seo="true" ref="index">
+    <file name="home-intro.png" crc="4289452656" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home-intro_2x.png" crc="3889126264" seo="true" ref="index">
+    <file name="home-intro_2x.png" crc="4170435432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
   <file name="jp.html" crc="4130217863" seo="true" mt="1518419688283" redirect="true"/>
   <file name="tw.html" crc="4083112604" seo="true" mt="1518419675313" redirect="true"/>
   <file name="en.html" crc="3821627124" seo="true" mt="1518419625336" redirect="true"/>
-  <file name="index.html" crc="3789075929" seo="true" mt="1518409539495" redirect="true"/>
+  <file name="index.html" crc="333012005" seo="true" mt="1518420035809" redirect="true"/>
 </manifest>
