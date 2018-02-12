@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1518413441589">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1518414320545">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4216476631" ref="index"/>
     <file name="jp.css" crc="336834651" ref="jp"/>
     <file name="en.css" crc="466441696" ref="en"/>
-    <file name="tw.css" crc="480546760" ref="tw"/>
+    <file name="tw.css" crc="3961436999" ref="tw"/>
   </folder>
   <folder name="assets">
     <file name="chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" crc="4120895493" seo="true" mt="1514207833000"/>
@@ -26,7 +26,7 @@
     <file name="require.js" crc="4157109226" ref="jp:tw:en:index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="jp"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="jp:tw"/>
     <file name="icons-wallpaper.gif" crc="127632304" ref="jp:tw:en">
       <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
@@ -756,11 +756,11 @@
     <file name="jap-00-menu_2x.png" crc="3882510332" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="logotype-black72x120.png" crc="288974817" seo="true" ref="jp">
+    <file name="logotype-black72x120.png" crc="288974817" seo="true" ref="jp:tw">
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="logotype-black72x120_2x.png" crc="3828216895" seo="true" ref="jp">
+    <file name="logotype-black72x120_2x.png" crc="3828216895" seo="true" ref="jp:tw">
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -872,10 +872,10 @@
     <file name="cht-12-baby-4_2x.png" crc="15026851" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="cht-13-baby-5.png" crc="4073564224" seo="true" ref="tw">
+    <file name="cht-13-baby-5.png" crc="388889893" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="cht-13-baby-5_2x.png" crc="4073564224" seo="true" ref="tw">
+    <file name="cht-13-baby-5_2x.png" crc="388889893" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
     <file name="cht-14-baby-6.png" crc="412788992" seo="true" ref="tw">
@@ -1138,7 +1138,7 @@
     </file>
   </folder>
   <file name="jp.html" crc="358554952" seo="true" mt="1518409854529" redirect="true"/>
-  <file name="tw.html" crc="3786271909" seo="true" mt="1518410235219" redirect="true"/>
+  <file name="tw.html" crc="4212861307" seo="true" mt="1518414297976" redirect="true"/>
   <file name="en.html" crc="266330310" seo="true" mt="1518409837578" redirect="true"/>
   <file name="index.html" crc="3789075929" seo="true" mt="1518409539495" redirect="true"/>
 </manifest>
