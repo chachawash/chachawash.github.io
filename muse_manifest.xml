@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519729755424">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519731976426">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4216476631" ref="index"/>
-    <file name="jp.css" crc="165150944" ref="jp"/>
-    <file name="en.css" crc="139227113" ref="en"/>
-    <file name="tw.css" crc="4164050801" ref="tw"/>
+    <file name="jp.css" crc="3758101627" ref="jp"/>
+    <file name="en.css" crc="105951944" ref="en"/>
+    <file name="tw.css" crc="3766617548" ref="tw"/>
   </folder>
   <folder name="assets">
     <file name="chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" crc="4120895493" seo="true" mt="1514207833000"/>
@@ -26,13 +26,14 @@
     <file name="require.js" crc="4157109226" ref="jp:tw:en:index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="jp:index:tw"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="jp:index:en"/>
     <file name="icons-wallpaper.gif" crc="127632304" ref="jp:tw:en">
       <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
     <file name="icons-wallpaper_2x.gif" crc="127632304" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -173,6 +174,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="pile.jpg" crc="3898495490" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -431,10 +433,12 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="powder.jpg" crc="100797667" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
     <file name="sponge.jpg" crc="69253256" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -455,6 +459,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="water.jpg" crc="522807671" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -487,6 +492,7 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="jp:tw:en"/>
     <file name="hero.jpg" crc="3773697070" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -535,6 +541,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="v2_kitchen.jpg" crc="384185094" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -593,6 +600,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="v2_nursing.jpg" crc="4294646181" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -635,6 +643,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="v2-camping.jpg" crc="498570768" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -677,6 +686,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="v2-city.jpg" crc="3809922589" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -719,6 +729,7 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="v2-plant.jpg" crc="4179336974" ref="jp:tw:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -756,11 +767,13 @@
     <file name="jap-00-menu_2x.png" crc="406705648" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="logotype-black72x120.png" crc="288974817" seo="true" ref="jp:tw">
+    <file name="logotype-black72x120.png" crc="288974817" seo="true" ref="jp:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="logotype-black72x120_2x.png" crc="3828216895" seo="true" ref="jp:tw">
+    <file name="logotype-black72x120_2x.png" crc="3828216895" seo="true" ref="jp:en">
+      <caption webpage="en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -1136,21 +1149,27 @@
     <file name="home-intro_2x.png" crc="4170435432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cht-59-email.png" crc="173927484" seo="true" ref="tw">
+    <file name="cht-59-email.png" crc="4194740564" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="cht-59-email_2x.png" crc="173927484" seo="true" ref="tw">
+    <file name="cht-59-email_2x.png" crc="4194740564" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="jap-59-email.png" crc="127050773" seo="true" ref="jp">
+    <file name="jap-59-email.png" crc="519877687" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="eng-59-email.png" crc="278079954" seo="true" ref="en">
+    <file name="eng-59-email.png" crc="3867942263" seo="true" ref="en">
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="jap-59-email_2x.png" crc="519877687" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="eng-59-email_2x.png" crc="3867942263" seo="true" ref="en">
       <caption webpage="en" alt=""/>
     </file>
   </folder>
-  <file name="jp.html" crc="59087430" seo="true" mt="1519729545141" redirect="true"/>
-  <file name="tw.html" crc="435939646" seo="true" mt="1519729355905" redirect="true"/>
-  <file name="en.html" crc="121295471" seo="true" mt="1519729726025" redirect="true"/>
+  <file name="jp.html" crc="397353661" seo="true" mt="1519731857663" redirect="true"/>
+  <file name="tw.html" crc="3811984364" seo="true" mt="1519731857729" redirect="true"/>
+  <file name="en.html" crc="4282537193" seo="true" mt="1519731961349" redirect="true"/>
   <file name="index.html" crc="333012005" seo="true" mt="1518420035809" redirect="true"/>
 </manifest>
