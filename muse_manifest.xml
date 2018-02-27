@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519394517437">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519729755424">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
+    <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4216476631" ref="index"/>
-    <file name="jp.css" crc="320763317" ref="jp"/>
-    <file name="en.css" crc="4062382580" ref="en"/>
-    <file name="tw.css" crc="3850001287" ref="tw"/>
+    <file name="jp.css" crc="165150944" ref="jp"/>
+    <file name="en.css" crc="139227113" ref="en"/>
+    <file name="tw.css" crc="4164050801" ref="tw"/>
   </folder>
   <folder name="assets">
     <file name="chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" crc="4120895493" seo="true" mt="1514207833000"/>
@@ -860,10 +860,10 @@
     <file name="cht-54-city-19_2x.png" crc="482273544" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="cht-58-info-1.png" crc="4169785584" seo="true" ref="tw">
+    <file name="cht-58-info-1.png" crc="4083837955" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="cht-58-info-1_2x.png" crc="3812193838" seo="true" ref="tw">
+    <file name="cht-58-info-1_2x.png" crc="4213624723" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
     <file name="cht-12-baby-4.png" crc="15026851" seo="true" ref="tw">
@@ -1136,9 +1136,21 @@
     <file name="home-intro_2x.png" crc="4170435432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cht-59-email.png" crc="173927484" seo="true" ref="tw">
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="cht-59-email_2x.png" crc="173927484" seo="true" ref="tw">
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="jap-59-email.png" crc="127050773" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="eng-59-email.png" crc="278079954" seo="true" ref="en">
+      <caption webpage="en" alt=""/>
+    </file>
   </folder>
-  <file name="jp.html" crc="44208196" seo="true" mt="1519215579850" redirect="true"/>
-  <file name="tw.html" crc="349876799" seo="true" mt="1519394494296" redirect="true"/>
-  <file name="en.html" crc="4220674361" seo="true" mt="1519215662177" redirect="true"/>
+  <file name="jp.html" crc="59087430" seo="true" mt="1519729545141" redirect="true"/>
+  <file name="tw.html" crc="435939646" seo="true" mt="1519729355905" redirect="true"/>
+  <file name="en.html" crc="121295471" seo="true" mt="1519729726025" redirect="true"/>
   <file name="index.html" crc="333012005" seo="true" mt="1518420035809" redirect="true"/>
 </manifest>
