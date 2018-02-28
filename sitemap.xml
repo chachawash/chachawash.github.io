@@ -569,12 +569,6 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/logotype-black72x120_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jap-59-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jap-59-email_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/tw.html</loc>
@@ -1115,12 +1109,6 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/cht-00-menu_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/cht-59-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/cht-59-email_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/en.html</loc>
@@ -1306,12 +1294,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/gmark-typeg-white-red_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/eng-59-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/eng-59-email_2x.png</image:loc>
     </image:image>
   </url>
   <url>
