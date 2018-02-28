@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519836111548">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519837333181">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4216476631" ref="index"/>
-    <file name="jp.css" crc="262115068" ref="jp"/>
-    <file name="en.css" crc="522959127" ref="en"/>
-    <file name="tw.css" crc="4194504656" ref="tw"/>
+    <file name="jp.css" crc="511842703" ref="jp"/>
+    <file name="en.css" crc="3840127519" ref="en"/>
+    <file name="tw.css" crc="208659896" ref="tw"/>
   </folder>
   <folder name="assets">
     <file name="chacha_bgv_14s_lesscontrast_720x540_2.69mb.mp4" crc="4120895493" seo="true" mt="1514207833000"/>
@@ -1149,33 +1149,45 @@
     <file name="home-intro_2x.png" crc="4170435432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jap-59-leave-a-message.png" crc="4109163268" seo="true" ref="jp">
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="jap-59-leave-a-message_2x.png" crc="4109163268" seo="true" ref="jp">
-      <caption webpage="jp" alt=""/>
+    <file name="jap-59-leave-a-message.png" crc="20986238" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="cht-59-leave-a-message.png" crc="355430288" seo="true" ref="tw">
-      <caption webpage="tw" alt=""/>
+    <file name="jap-59-leave-a-message_2x.png" crc="504506451" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="cht-59-leave-a-message.png" crc="4122216197" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="cht-59-leave-a-message_2x.png" crc="355430288" seo="true" ref="tw">
-      <caption webpage="tw" alt=""/>
+    <file name="cht-59-leave-a-message_2x.png" crc="21422419" seo="true" ref="tw">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="eng-59-leave-a-message.png" crc="3858163302" seo="true" ref="en">
-      <caption webpage="en" alt=""/>
+    <file name="eng-59-leave-a-message.png" crc="34856326" seo="true" ref="en">
       <caption webpage="en" alt=""/>
     </file>
-    <file name="eng-59-leave-a-message_2x.png" crc="3858163302" seo="true" ref="en">
+    <file name="eng-59-leave-a-message_2x.png" crc="343753444" seo="true" ref="en">
       <caption webpage="en" alt=""/>
+    </file>
+    <file name="jap-59-leave-a-message203x50.png" crc="66210474" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="jap-59-leave-a-message203x50_2x.png" crc="114983185" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="cht-59-leave-a-message203x50.png" crc="40880653" seo="true" ref="tw">
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="cht-59-leave-a-message203x50_2x.png" crc="477842347" seo="true" ref="tw">
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="eng-59-leave-a-message203x50.png" crc="328725536" seo="true" ref="en">
+      <caption webpage="en" alt=""/>
+    </file>
+    <file name="eng-59-leave-a-message203x50_2x.png" crc="524042968" seo="true" ref="en">
       <caption webpage="en" alt=""/>
     </file>
   </folder>
-  <file name="jp.html" crc="49590810" seo="true" mt="1519835861444" redirect="true"/>
-  <file name="tw.html" crc="4202015963" seo="true" mt="1519835930470" redirect="true"/>
-  <file name="en.html" crc="422836673" seo="true" mt="1519836076000" redirect="true"/>
+  <file name="jp.html" crc="4235329964" seo="true" mt="1519837269717" redirect="true"/>
+  <file name="tw.html" crc="497821784" seo="true" mt="1519836790801" redirect="true"/>
+  <file name="en.html" crc="4190838132" seo="true" mt="1519837307199" redirect="true"/>
   <file name="index.html" crc="4047392204" seo="true" mt="1519732578831" redirect="true"/>
 </manifest>
