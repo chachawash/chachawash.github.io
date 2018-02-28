@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://chachawash.github.io/jp.html</loc>
-    <lastmod>2018-02-28</lastmod>
+    <lastmod>2018-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -569,10 +569,16 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/logotype-black72x120_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jap-59-leave-a-message.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jap-59-leave-a-message_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/tw.html</loc>
-    <lastmod>2018-02-28</lastmod>
+    <lastmod>2018-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1109,10 +1115,16 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/cht-00-menu_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/cht-59-leave-a-message.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/cht-59-leave-a-message_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/en.html</loc>
-    <lastmod>2018-02-28</lastmod>
+    <lastmod>2018-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1294,6 +1306,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/gmark-typeg-white-red_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/eng-59-leave-a-message.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/eng-59-leave-a-message_2x.png</image:loc>
     </image:image>
   </url>
   <url>
