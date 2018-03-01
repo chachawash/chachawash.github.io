@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519910062868">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1519911702126">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4216476631" ref="index"/>
@@ -1167,49 +1167,49 @@
     <file name="eng-59-leave-a-message_2x.png" crc="86153538" seo="true" ref="en">
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-email.gif" crc="4018198527" seo="true" ref="jp:tw:en">
+    <file name="contact-email.gif" crc="3991065440" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-email_2x.gif" crc="4018198527" seo="true" ref="jp:tw:en">
+    <file name="contact-email_2x.gif" crc="3991065440" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-facebook.gif" crc="439390344" seo="true" ref="jp:tw:en">
+    <file name="contact-facebook.gif" crc="335333406" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-facebook_2x.gif" crc="439390344" seo="true" ref="jp:tw:en">
+    <file name="contact-facebook_2x.gif" crc="335333406" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-facebookmessanger.gif" crc="3785244353" seo="true" ref="jp:tw:en">
+    <file name="contact-facebookmessanger.gif" crc="4226131439" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-facebookmessanger_2x.gif" crc="3785244353" seo="true" ref="jp:tw:en">
+    <file name="contact-facebookmessanger_2x.gif" crc="4226131439" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-twitter.gif" crc="4019429643" seo="true" ref="jp:tw:en">
+    <file name="contact-twitter.gif" crc="228584282" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
-    <file name="contact-twitter_2x.gif" crc="4019429643" seo="true" ref="jp:tw:en">
+    <file name="contact-twitter_2x.gif" crc="228584282" seo="true" ref="jp:tw:en">
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="en" alt=""/>
     </file>
   </folder>
-  <file name="jp.html" crc="4023845763" seo="true" mt="1519909999394" redirect="true"/>
-  <file name="tw.html" crc="153963848" seo="true" mt="1519910013321" redirect="true"/>
-  <file name="en.html" crc="524673998" seo="true" mt="1519910027353" redirect="true"/>
+  <file name="jp.html" crc="3887533714" seo="true" mt="1519911669619" redirect="true"/>
+  <file name="tw.html" crc="3895191251" seo="true" mt="1519911650220" redirect="true"/>
+  <file name="en.html" crc="4241825135" seo="true" mt="1519911650246" redirect="true"/>
   <file name="index.html" crc="4047392204" seo="true" mt="1519732578831" redirect="true"/>
 </manifest>
