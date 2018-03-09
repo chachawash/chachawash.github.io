@@ -602,7 +602,7 @@
   </url>
   <url>
     <loc>https://chachawash.github.io/tw.html</loc>
-    <lastmod>2018-03-09</lastmod>
+    <lastmod>2018-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -784,6 +784,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/gmark-typeg-white-red_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/logotype-black72x120.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/logotype-black72x120_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/contact-email.gif</image:loc>
