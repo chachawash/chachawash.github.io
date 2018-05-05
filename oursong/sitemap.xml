@@ -475,6 +475,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://mrjoshuachao.github.io/dsd.html</loc>
+    <lastmod>2018-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://mrjoshuachao.github.io/assets/20180504-for-muse-for-ipad.mp4</loc>
+    <lastmod>2018-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://mrjoshuachao.github.io/assets/20180504-for-muse-for-ipad.webm</loc>
     <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -482,12 +494,6 @@
   </url>
   <url>
     <loc>https://mrjoshuachao.github.io/assets/20180504-for-muse-for-ipad.ogg</loc>
-    <lastmod>2018-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://mrjoshuachao.github.io/assets/20180504-for-muse-for-ipad.mp4</loc>
     <lastmod>2018-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
