@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://mrjoshuachao.github.io" resolutions="1x,2x" timestamp="1525513785505">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://mrjoshuachao.github.io" resolutions="1x,2x" timestamp="1525514290450">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="story.css" crc="3988088425" ref="story"/>
     <file name="index.css" crc="3848497172" ref="index"/>
+    <file name="story.css" crc="3988088425" ref="story"/>
     <file name="comments.css" crc="4070919048" ref="comments"/>
   </folder>
   <folder name="assets">
@@ -555,7 +555,7 @@
       <caption webpage="comments" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4016779838" seo="true" mt="1525495141611" redirect="true"/>
-  <file name="story.html" crc="3979704260" seo="true" mt="1525513038271" redirect="true"/>
-  <file name="comments.html" crc="301905341" seo="true" mt="1525512075132" redirect="true"/>
+  <file name="index.html" crc="305239813" seo="true" mt="1525495141611" redirect="true"/>
+  <file name="story.html" crc="4109127527" seo="true" mt="1525513038271" redirect="true"/>
+  <file name="comments.html" crc="190244173" seo="true" mt="1525514280912" redirect="true"/>
 </manifest>
