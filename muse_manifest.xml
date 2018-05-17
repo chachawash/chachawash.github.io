@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1526568092928">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1526569787583">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="tw.css" crc="518494878" ref="tw"/>
-    <file name="jp.css" crc="337156577" ref="jp"/>
-    <file name="en.css" crc="4292795848" ref="en"/>
+    <file name="tw.css" crc="3783163766" ref="tw"/>
+    <file name="jp.css" crc="3951131657" ref="jp"/>
+    <file name="en.css" crc="189905360" ref="en"/>
     <file name="index.css" crc="4216476631" ref="index"/>
   </folder>
   <folder name="assets">
@@ -1218,8 +1218,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="jp.html" crc="510998552" seo="true" mt="1526568072951" redirect="true"/>
-  <file name="tw.html" crc="4198384933" seo="true" mt="1526568072950" redirect="true"/>
-  <file name="en.html" crc="155047118" seo="true" mt="1526568072952" redirect="true"/>
+  <file name="jp.html" crc="4100564868" seo="true" mt="1526569752416" redirect="true"/>
+  <file name="tw.html" crc="3765301489" seo="true" mt="1526569744893" redirect="true"/>
+  <file name="en.html" crc="3786313192" seo="true" mt="1526569730193" redirect="true"/>
   <file name="index.html" crc="120808860" seo="true" mt="1521988706880" redirect="true"/>
 </manifest>
