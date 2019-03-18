@@ -138,12 +138,6 @@
       <image:loc>https://chachawash.github.io/images/04-3-txt_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/_line.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/_line_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/04-2-txt.png</image:loc>
     </image:image>
     <image:image>
@@ -274,6 +268,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/07-3-more_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
