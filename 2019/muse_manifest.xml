@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552939121413">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552940443697">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3850813515" ref="index"/>
+    <file name="index.css" crc="4283881662" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -329,26 +329,26 @@
     <file name="07-4-enter_2x.png" crc="356307024" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="-buy-1.png" crc="4248662930" seo="true" ref="index">
+    <file name="-buy-1.png" crc="297565497" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="-buy-1_2x.png" crc="88482275" seo="true" ref="index">
+    <file name="-buy-1_2x.png" crc="120191831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="-buy-2.png" crc="4247422550" seo="true" ref="index">
+    <file name="-buy-2.png" crc="86061171" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="-buy-2_2x.png" crc="8909525" seo="true" ref="index">
+    <file name="-buy-2_2x.png" crc="4022066615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4020140810" seo="true" mt="1552939104087" redirect="true"/>
+  <file name="index.html" crc="504982470" seo="true" mt="1552940387919" redirect="true"/>
 </manifest>
