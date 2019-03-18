@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552943852723">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552944841305">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4061094457" ref="index"/>
@@ -164,10 +164,10 @@
     <file name="03-3-txt-travel_2x.png" crc="486631559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03-5-txt-nontoxic.png" crc="4185395640" seo="true" ref="index">
+    <file name="03-5-txt-nontoxic.png" crc="4049552911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03-5-txt-nontoxic_2x.png" crc="4185395640" seo="true" ref="index">
+    <file name="03-5-txt-nontoxic_2x.png" crc="4049552911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="04-1-cube.jpg" crc="505989416" ref="index">
@@ -283,10 +283,10 @@
     <file name="06-2-icon_2x.png" crc="4098796108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="06-2-txt.png" crc="4176472106" seo="true" ref="index">
+    <file name="06-2-txt.png" crc="279993916" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="06-2-txt_2x.png" crc="256549670" seo="true" ref="index">
+    <file name="06-2-txt_2x.png" crc="276996383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="06-3-icon.png" crc="482691263" seo="true" ref="index">
@@ -295,10 +295,10 @@
     <file name="06-3-icon_2x.png" crc="112018186" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="06-3-txt.png" crc="426059553" seo="true" ref="index">
+    <file name="06-3-txt.png" crc="4061254123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="06-3-txt_2x.png" crc="353252421" seo="true" ref="index">
+    <file name="06-3-txt_2x.png" crc="4123713783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="07-1-logotype-black.png" crc="4007945404" seo="true" ref="index">
@@ -319,10 +319,10 @@
     <file name="07-4-enter_2x.png" crc="356307024" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07-3-more.png" crc="3847234005" seo="true" ref="index">
+    <file name="07-3-more.png" crc="672821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07-3-more_2x.png" crc="4207804261" seo="true" ref="index">
+    <file name="07-3-more_2x.png" crc="4017020787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="contact-email.gif" crc="306251621" seo="true" ref="index">
@@ -350,5 +350,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3870091414" seo="true" mt="1552943836221" redirect="true"/>
+  <file name="index.html" crc="57759962" seo="true" mt="1552944817708" redirect="true"/>
 </manifest>
