@@ -30,6 +30,12 @@
       <image:loc>https://chachawash.github.io/images/01-5-price-go_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/-buy-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-buy-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/01-4-price-home.png</image:loc>
     </image:image>
     <image:image>
@@ -54,16 +60,28 @@
       <image:loc>https://chachawash.github.io/images/02-2-price-home-black_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/02-3-icon-kitchen.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/-buy-2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/02-3-icon-kitchen_2x.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/-buy-2_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/02-4-icon-baby.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/02-4-icon-baby_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/02-4-txt-baby.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/02-4-txt-baby_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/02-3-icon-kitchen.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/02-3-icon-kitchen_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/02-5-icon-pet.png</image:loc>
@@ -78,12 +96,6 @@
       <image:loc>https://chachawash.github.io/images/02-3-txt-kitchen_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/02-4-txt-baby.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/02-4-txt-baby_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/02-5-txt-pet.png</image:loc>
     </image:image>
     <image:image>
@@ -96,16 +108,22 @@
       <image:loc>https://chachawash.github.io/images/03-2-price-go-black_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/03-3-icon-travel.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/03-3-icon-travel_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/03-4-icon-camping.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/03-4-icon-camping_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/03-4-txt-camping.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/03-4-txt-camping_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/03-3-icon-travel.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/03-3-icon-travel_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/03-5-icon-nontoxic.png</image:loc>
@@ -120,22 +138,28 @@
       <image:loc>https://chachawash.github.io/images/03-3-txt-travel_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/03-4-txt-camping.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/03-4-txt-camping_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/03-5-txt-nontoxic.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/03-5-txt-nontoxic_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-05-cube-black.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-05-cube-black_2x.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/04-3-txt.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/04-3-txt_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-08-pile-black.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-08-pile-black_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/04-2-txt.png</image:loc>
@@ -168,6 +192,12 @@
       <image:loc>https://chachawash.github.io/images/05-4-info_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/-line.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/05-3-prints.png</image:loc>
     </image:image>
     <image:image>
@@ -178,6 +208,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/05-6-icon-cycle_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/05-6-text-cycle.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/05-6-text-cycle_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/05-7-icon-happy.png</image:loc>
@@ -198,16 +234,16 @@
       <image:loc>https://chachawash.github.io/images/05-8-text-care_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/05-6-text-cycle.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/05-6-text-cycle_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/05-7-text-happy.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/05-7-text-happy_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/06-2-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/06-2-icon_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/06-2-txt.png</image:loc>
@@ -216,10 +252,40 @@
       <image:loc>https://chachawash.github.io/images/06-2-txt_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/06-3-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/06-3-icon_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/06-3-txt.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/06-3-txt_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-1-logotype-black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-1-logotype-black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-2-title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-2-title_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-4-enter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-4-enter_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-3-more.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/07-3-more_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/contact-email.gif</image:loc>
@@ -244,72 +310,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/contact-twitter_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-1-logotype-black.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-1-logotype-black_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-2-title.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-2-title_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-3-more.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-3-more_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-line.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-line_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-05-cube-black.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-05-cube-black_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-08-pile-black.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-08-pile-black_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/06-2-icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/06-2-icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/06-3-icon.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/06-3-icon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-4-enter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/07-4-enter_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-buy-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-buy-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-buy-2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-buy-2_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
