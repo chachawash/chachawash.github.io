@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552876833536">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552915579347">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="198374712" ref="index"/>
+    <file name="index.css" crc="3813257518" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,7 +15,7 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
-    <file name="01-1-hero.jpg" crc="4154889344" ref="index">
+    <file name="01-1-hero.jpg" crc="3773801638" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="01-2-logotype-white.png" crc="4109990177" seo="true" ref="index">
@@ -81,10 +81,10 @@
     <file name="02-4-icon-baby_2x.png" crc="105585538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-5-icon-pet.png" crc="168459428" seo="true" ref="index">
+    <file name="02-5-icon-pet.png" crc="4063435505" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-5-icon-pet_2x.png" crc="3788845613" seo="true" ref="index">
+    <file name="02-5-icon-pet_2x.png" crc="4025650500" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="02-3-txt-kitchen.png" crc="4156807530" seo="true" ref="index">
@@ -210,10 +210,10 @@
     <file name="05-7-icon-happy_2x.png" crc="524042538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-8-icon-care.png" crc="4063435505" seo="true" ref="index">
+    <file name="05-8-icon-care.png" crc="468491849" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-8-icon-care_2x.png" crc="4025650500" seo="true" ref="index">
+    <file name="05-8-icon-care_2x.png" crc="371335723" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="05-8-text-care.png" crc="4266578639" seo="true" ref="index">
@@ -241,12 +241,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="06-2-txt_2x.png" crc="4256662638" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="06-4-txt.png" crc="351208399" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="06-4-txt_2x.png" crc="4009773361" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="06-3-txt.png" crc="3815678931" seo="true" ref="index">
@@ -304,7 +298,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="-line_2x.png" crc="3813812429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -313,8 +306,31 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-05-cube-black.gif" crc="3971612974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-05-cube-black_2x.gif" crc="3971612974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-08-pile-black.gif" crc="4154814068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-08-pile-black_2x.gif" crc="4154814068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-2-icon.gif" crc="453608306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-2-icon_2x.gif" crc="453608306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-3-icon.gif" crc="71559829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-3-icon_2x.gif" crc="71559829" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="408489161" seo="true" mt="1552876751477" redirect="true"/>
+  <file name="index.html" crc="378494934" seo="true" mt="1552915574045" redirect="true"/>
 </manifest>
