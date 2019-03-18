@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552942578565">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552943322141">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4230612722" ref="index"/>
+    <file name="index.css" crc="4061094457" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -30,16 +30,16 @@
     <file name="01-3-title_2x.png" crc="103514148" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-6-price-reuse.png" crc="310126493" seo="true" ref="index">
+    <file name="01-6-price-reuse.png" crc="3978586031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-6-price-reuse_2x.png" crc="321834564" seo="true" ref="index">
+    <file name="01-6-price-reuse_2x.png" crc="429972330" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-5-price-go.png" crc="394002920" seo="true" ref="index">
+    <file name="01-5-price-go.png" crc="3971373658" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-5-price-go_2x.png" crc="182067479" seo="true" ref="index">
+    <file name="01-5-price-go_2x.png" crc="4172931510" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="-buy-1.png" crc="297565497" seo="true" ref="index">
@@ -52,10 +52,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-4-price-home.png" crc="423927551" seo="true" ref="index">
+    <file name="01-4-price-home.png" crc="4110093965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-4-price-home_2x.png" crc="244821691" seo="true" ref="index">
+    <file name="01-4-price-home_2x.png" crc="31865350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="01-7-gmark-black-red.png" crc="201824167" seo="true" ref="index">
@@ -73,10 +73,10 @@
     <file name="02-1-big-box.jpg" crc="532494706" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-2-price-home-black.png" crc="132912641" seo="true" ref="index">
+    <file name="02-2-price-home-black.png" crc="439949980" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-2-price-home-black_2x.png" crc="496726781" seo="true" ref="index">
+    <file name="02-2-price-home-black_2x.png" crc="3830560200" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="-buy-2.png" crc="86061171" seo="true" ref="index">
@@ -128,10 +128,10 @@
     <file name="03-1-small-box.jpg" crc="3914862064" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03-2-price-go-black.png" crc="122446359" seo="true" ref="index">
+    <file name="03-2-price-go-black.png" crc="102681164" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="03-2-price-go-black_2x.png" crc="61834930" seo="true" ref="index">
+    <file name="03-2-price-go-black_2x.png" crc="25813117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="03-4-icon-camping.png" crc="4048600184" seo="true" ref="index">
@@ -212,10 +212,10 @@
     <file name="05-1-bottle.jpg" crc="149363764" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-2-price-reuse-black.png" crc="3764237717" seo="true" ref="index">
+    <file name="05-2-price-reuse-black.png" crc="181551804" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-2-price-reuse-black_2x.png" crc="106024470" seo="true" ref="index">
+    <file name="05-2-price-reuse-black_2x.png" crc="54096452" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="05-4-info.png" crc="3989335600" seo="true" ref="index">
@@ -350,5 +350,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="331923613" seo="true" mt="1552942564946" redirect="true"/>
+  <file name="index.html" crc="3867936691" seo="true" mt="1552943308893" redirect="true"/>
 </manifest>
