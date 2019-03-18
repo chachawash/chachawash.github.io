@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552937603948">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552937718701">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4218236955" ref="index"/>
@@ -329,26 +329,26 @@
     <file name="07-4-enter_2x.png" crc="356307024" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_buy1.png" crc="4149158121" seo="true" ref="index">
+    <file name="_buy1.png" crc="4248662930" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_buy1_2x.png" crc="3917609958" seo="true" ref="index">
+    <file name="_buy1_2x.png" crc="88482275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_buy2.png" crc="27086587" seo="true" ref="index">
+    <file name="_buy2.png" crc="4247422550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="_buy2_2x.png" crc="41969109" seo="true" ref="index">
+    <file name="_buy2_2x.png" crc="8909525" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="206411897" seo="true" mt="1552937585507" redirect="true"/>
+  <file name="index.html" crc="223341807" seo="true" mt="1552937702982" redirect="true"/>
 </manifest>
