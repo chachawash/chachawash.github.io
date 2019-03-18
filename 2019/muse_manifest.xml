@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552943322141">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552943852723">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4061094457" ref="index"/>
@@ -307,10 +307,10 @@
     <file name="07-1-logotype-black_2x.png" crc="3952034060" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07-2-title.png" crc="3991498636" seo="true" ref="index">
+    <file name="07-2-title.png" crc="4083577877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07-2-title_2x.png" crc="3775572123" seo="true" ref="index">
+    <file name="07-2-title_2x.png" crc="28482605" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="07-4-enter.png" crc="82606515" seo="true" ref="index">
@@ -350,5 +350,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3867936691" seo="true" mt="1552943308893" redirect="true"/>
+  <file name="index.html" crc="3870091414" seo="true" mt="1552943836221" redirect="true"/>
 </manifest>
