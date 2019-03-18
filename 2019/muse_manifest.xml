@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552937831989">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552938118740">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4205795266" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="3985270153" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,10 +24,10 @@
     <file name="01-2-logotype-white_2x.png" crc="4285937194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-3-title.png" crc="181233843" seo="true" ref="index">
+    <file name="01-3-title.png" crc="396846181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-3-title_2x.png" crc="351805077" seo="true" ref="index">
+    <file name="01-3-title_2x.png" crc="4093216823" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="01-6-price-reuse.png" crc="310126493" seo="true" ref="index">
@@ -350,5 +350,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="314778934" seo="true" mt="1552937817171" redirect="true"/>
+  <file name="index.html" crc="240415938" seo="true" mt="1552938063570" redirect="true"/>
 </manifest>
