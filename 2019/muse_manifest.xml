@@ -1,0 +1,320 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1552871635154">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="200386029" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
+    <file name="01-1-hero.jpg" crc="4154889344" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-2-logotype-white.png" crc="4109990177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-2-logotype-white_2x.png" crc="4113705044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-3-title.png" crc="3761360991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-3-title_2x.png" crc="273181951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-6-price-reuse.png" crc="342755066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-6-price-reuse_2x.png" crc="4284576659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-5-price-go.png" crc="4254333906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-5-price-go_2x.png" crc="3812316417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-4-price-home.png" crc="3937248294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-4-price-home_2x.png" crc="395565782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-7-gmark-black-red.png" crc="201824167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-7-gmark-black-red_2x.png" crc="4096817924" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-8-gda.png" crc="4182178330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-8-gda_2x.png" crc="3865952844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-1-big-box.jpg" crc="3788650276" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-2-price-home-black.png" crc="88145171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-2-price-home-black_2x.png" crc="4017535606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-3-icon-kitchen.png" crc="4106924451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-3-icon-kitchen_2x.png" crc="406258559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-4-icon-baby.png" crc="240199641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-4-icon-baby_2x.png" crc="105585538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-5-icon-pet.png" crc="168459428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-5-icon-pet_2x.png" crc="3788845613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-3-txt-kitchen.png" crc="4156807530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-3-txt-kitchen_2x.png" crc="238500316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-4-txt-baby.png" crc="4091391495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-4-txt-baby_2x.png" crc="4271093087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-5-txt-pet.png" crc="470284091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-5-txt-pet_2x.png" crc="405072386" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-1-small-box.jpg" crc="293545687" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-2-price-go-black.png" crc="4068006786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-2-price-go-black_2x.png" crc="335839048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-3-icon-travel.png" crc="4108743076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-3-icon-travel_2x.png" crc="127352888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-4-icon-camping.png" crc="299771791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-4-icon-camping_2x.png" crc="245634564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-5-icon-nontoxic.png" crc="226634872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-5-icon-nontoxic_2x.png" crc="3820956218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-3-txt-travel.png" crc="93879361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-3-txt-travel_2x.png" crc="463925220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-4-txt-camping.png" crc="4238361048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-4-txt-camping_2x.png" crc="180253527" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-5-txt-nontoxic.png" crc="25535714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03-5-txt-nontoxic_2x.png" crc="3915880232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04-1-cube.jpg" crc="4022080989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04-3-txt.png" crc="3876032211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04-3-txt_2x.png" crc="237748887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_line.png" crc="308179405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_line_2x.png" crc="3813812429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04-2-txt.png" crc="57664407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04-2-txt_2x.png" crc="115386682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-0-icon-bottle.png" crc="499190714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-0-icon-bottle_2x.png" crc="4235901199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-0-text-bottle.png" crc="3990218538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-0-text-bottle_2x.png" crc="361910155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-1-bottle.jpg" crc="4185716805" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-2-price-reuse-black.png" crc="16871983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-2-price-reuse-black_2x.png" crc="4145882424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-4-info.png" crc="180981942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-4-info_2x.png" crc="3872239758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-3-prints.png" crc="4003784730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-3-prints_2x.png" crc="49345315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-6-icon-cycle.png" crc="3938909741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-6-icon-cycle_2x.png" crc="329133196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-7-icon-happy.png" crc="4163283176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-7-icon-happy_2x.png" crc="524042538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-8-icon-care.png" crc="4063435505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-8-icon-care_2x.png" crc="4025650500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-8-text-care.png" crc="4266578639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-8-text-care_2x.png" crc="3882107430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-6-text-cycle.png" crc="3979377677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-6-text-cycle_2x.png" crc="4254608617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-7-text-happy.png" crc="3935277795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05-7-text-happy_2x.png" crc="297599155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-1-bottle-top.jpg" crc="4174718461" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-2-txt.png" crc="3801049616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-2-txt_2x.png" crc="4256662638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-4-txt.png" crc="351208399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-4-txt_2x.png" crc="4009773361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-3-txt.png" crc="3815678931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-3-txt_2x.png" crc="150031154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-email.gif" crc="306251621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-email_2x.gif" crc="306251621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-facebook.gif" crc="4081937728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-facebook_2x.gif" crc="4081937728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-facebookmessanger.gif" crc="90072550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-facebookmessanger_2x.gif" crc="90072550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-twitter.gif" crc="89062490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact-twitter_2x.gif" crc="89062490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-1-logotype-black.png" crc="58424424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-1-logotype-black_2x.png" crc="369665048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-2-title.png" crc="92228561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-2-title_2x.png" crc="496086733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-3-more.png" crc="449969354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07-3-more_2x.png" crc="374412272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="146528174" seo="true" mt="1552871626133" redirect="true"/>
+</manifest>
