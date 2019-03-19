@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553034269502">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553034739582">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="4289727680" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="4128377736" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -70,7 +70,7 @@
     <file name="01-8-gda_2x.png" crc="412700244" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-1-big-box.jpg" crc="532494706" ref="index">
+    <file name="02-1-big-box.jpg" crc="3991335463" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="02-2-price-home-black.png" crc="4275700402" seo="true" ref="index">
@@ -350,5 +350,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="222837499" seo="true" mt="1553033825581" redirect="true"/>
+  <file name="index.html" crc="3772633835" seo="true" mt="1553034732280" redirect="true"/>
 </manifest>
