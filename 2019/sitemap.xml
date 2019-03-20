@@ -311,5 +311,17 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/contact-twitter_2x.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/gda-comment-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/gda-comment-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/gda-comment-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/gda-comment-2_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>

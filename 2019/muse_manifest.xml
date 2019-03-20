@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553036364807">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553078749196">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="4128377736" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="353904311" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,10 +24,10 @@
     <file name="01-2-logotype-white_2x.png" crc="420126115" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-3-title.png" crc="4131437233" seo="true" ref="index">
+    <file name="01-3-title.png" crc="341400593" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="01-3-title_2x.png" crc="197386227" seo="true" ref="index">
+    <file name="01-3-title_2x.png" crc="411546802" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="01-6-price-reuse.png" crc="96227912" seo="true" ref="index">
@@ -60,8 +60,10 @@
     </file>
     <file name="01-7-gmark-black-red.png" crc="201824167" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="01-7-gmark-black-red_2x.png" crc="4276349784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="01-8-gda.png" crc="209079727" seo="true" ref="index">
@@ -307,10 +309,10 @@
     <file name="07-1-logotype-black_2x.png" crc="3952034060" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07-2-title.png" crc="141411804" seo="true" ref="index">
+    <file name="07-2-title.png" crc="254352714" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="07-2-title_2x.png" crc="374852428" seo="true" ref="index">
+    <file name="07-2-title_2x.png" crc="312158904" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="07-4-enter.png" crc="82606515" seo="true" ref="index">
@@ -349,6 +351,18 @@
     <file name="contact-twitter_2x.gif" crc="89062490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gda-comment-1.png" crc="4018342410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gda-comment-1_2x.png" crc="3799649615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gda-comment-2.png" crc="12054831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gda-comment-2_2x.png" crc="412779476" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="2620256" seo="true" mt="1553036352345" redirect="true"/>
+  <file name="index.html" crc="80059732" seo="true" mt="1553078647032" redirect="true"/>
 </manifest>
