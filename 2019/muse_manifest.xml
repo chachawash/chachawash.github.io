@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553103173459">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553103289471">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4275341894" ref="index"/>
-    <file name="home-en.css" crc="519601456" ref="home-en"/>
-    <file name="home-jp.css" crc="531881898" ref="home-jp"/>
+    <file name="index.css" crc="3800630787" ref="index"/>
+    <file name="home-en.css" crc="268467693" ref="home-en"/>
+    <file name="home-jp.css" crc="65950703" ref="home-jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-en:home-jp"/>
@@ -758,7 +758,7 @@
       <caption webpage="home-en" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="148395352" seo="true" mt="1553103162872" redirect="true"/>
-  <file name="home-en.html" crc="258436550" seo="true" mt="1553103162871" redirect="true"/>
-  <file name="home-jp.html" crc="4149639400" seo="true" mt="1553103162870" redirect="true"/>
+  <file name="index.html" crc="3848984536" seo="true" mt="1553103268773" redirect="true"/>
+  <file name="home-en.html" crc="4135767275" seo="true" mt="1553103261245" redirect="true"/>
+  <file name="home-jp.html" crc="4231554020" seo="true" mt="1553103265643" redirect="true"/>
 </manifest>
