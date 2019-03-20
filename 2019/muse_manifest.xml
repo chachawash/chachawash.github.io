@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553101327857">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553101655437">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="443161151" ref="index"/>
@@ -16,7 +16,7 @@
     <file name="require.js" crc="7928878" ref="index:home-en:home-jp"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="index:home-jp"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
     <file name="01-1-hero.jpg" crc="3907461274" ref="index:home-en:home-jp">
       <caption webpage="index" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -747,18 +747,18 @@
       <caption webpage="en" alt=""/>
       <caption webpage="home-en" alt=""/>
     </file>
-    <file name="home-languages.png" crc="4066700819" seo="true" ref="index:home-en:home-jp">
+    <file name="-languages.png" crc="4194410294" seo="true" ref="index:home-en:home-jp">
       <caption webpage="index" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="home-languages_2x.png" crc="368435171" seo="true" ref="index:home-en:home-jp">
+    <file name="-languages_2x.png" crc="215317562" seo="true" ref="index:home-en:home-jp">
       <caption webpage="index" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4277714553" seo="true" mt="1553100998448" redirect="true"/>
-  <file name="home-en.html" crc="469424671" seo="true" mt="1553100998451" redirect="true"/>
-  <file name="home-jp.html" crc="4246086584" seo="true" mt="1553101284173" redirect="true"/>
+  <file name="index.html" crc="4146765661" seo="true" mt="1553101581282" redirect="true"/>
+  <file name="home-en.html" crc="4030226512" seo="true" mt="1553101608566" redirect="true"/>
+  <file name="home-jp.html" crc="3900021788" seo="true" mt="1553101629437" redirect="true"/>
 </manifest>
