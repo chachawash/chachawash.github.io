@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553236231586">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1553291166382">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3904502044" ref="index"/>
-    <file name="home-en.css" crc="145327209" ref="home-en"/>
-    <file name="home-jp.css" crc="4112206626" ref="home-jp"/>
+    <file name="index.css" crc="327864408" ref="index"/>
+    <file name="home-en.css" crc="166052814" ref="home-en"/>
+    <file name="home-jp.css" crc="4209375155" ref="home-jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-en:home-jp"/>
@@ -16,7 +16,7 @@
     <file name="require.js" crc="7928878" ref="index:home-en:home-jp"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="index:home-en"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
     <file name="01-1-hero.jpg" crc="119123163" ref="index:home-en:home-jp">
       <caption webpage="index" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -763,94 +763,94 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-en" alt=""/>
     </file>
-    <file name="jp-01-3-title.png" crc="3936639787" seo="true" ref="home-jp">
+    <file name="jp-01-3-title.png" crc="4272183387" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-3-title_2x.png" crc="201450998" seo="true" ref="home-jp">
+    <file name="jp-01-3-title_2x.png" crc="527242895" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-6-price-reuse.png" crc="371954207" seo="true" ref="home-jp">
+    <file name="jp-01-6-price-reuse.png" crc="304318544" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-6-price-reuse_2x.png" crc="371954207" seo="true" ref="home-jp">
+    <file name="jp-01-6-price-reuse_2x.png" crc="304318544" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-5-price-go.png" crc="3936146983" seo="true" ref="home-jp">
+    <file name="jp-01-5-price-go.png" crc="101904563" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-5-price-go_2x.png" crc="3936146983" seo="true" ref="home-jp">
+    <file name="jp-01-5-price-go_2x.png" crc="101904563" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-4-price-home.png" crc="474330931" seo="true" ref="home-jp">
+    <file name="jp-01-4-price-home.png" crc="3962339876" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-4-price-home_2x.png" crc="474330931" seo="true" ref="home-jp">
+    <file name="jp-01-4-price-home_2x.png" crc="3962339876" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-8-gda.png" crc="44170305" seo="true" ref="home-jp">
+    <file name="jp-01-8-gda.png" crc="4282858472" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-01-8-gda_2x.png" crc="3850786027" seo="true" ref="home-jp">
+    <file name="jp-01-8-gda_2x.png" crc="364748519" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-2-price-home-black.png" crc="355649628" seo="true" ref="home-jp">
+    <file name="jp-02-2-price-home-black.png" crc="460435816" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-2-price-home-black_2x.png" crc="355649628" seo="true" ref="home-jp">
+    <file name="jp-02-2-price-home-black_2x.png" crc="460435816" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-4-text-baby.png" crc="4194274754" seo="true" ref="home-jp">
+    <file name="jp-02-4-text-baby.png" crc="150215210" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-4-text-baby_2x.png" crc="4194274754" seo="true" ref="home-jp">
+    <file name="jp-02-4-text-baby_2x.png" crc="150215210" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-3-text-kitchen.png" crc="4184719917" seo="true" ref="home-jp">
+    <file name="jp-02-3-text-kitchen.png" crc="380096297" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-3-text-kitchen_2x.png" crc="4184719917" seo="true" ref="home-jp">
+    <file name="jp-02-3-text-kitchen_2x.png" crc="380096297" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-5-text-pet.png" crc="280509815" seo="true" ref="home-jp">
+    <file name="jp-02-5-text-pet.png" crc="4152266979" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-02-5-text-pet_2x.png" crc="280509815" seo="true" ref="home-jp">
+    <file name="jp-02-5-text-pet_2x.png" crc="4152266979" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-2-price-go-black.png" crc="3902178807" seo="true" ref="home-jp">
+    <file name="jp-03-2-price-go-black.png" crc="278886454" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-2-price-go-black_2x.png" crc="3902178807" seo="true" ref="home-jp">
+    <file name="jp-03-2-price-go-black_2x.png" crc="278886454" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-4-text-camping.png" crc="374210529" seo="true" ref="home-jp">
+    <file name="jp-03-4-text-camping.png" crc="3993040457" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-4-text-camping_2x.png" crc="374210529" seo="true" ref="home-jp">
+    <file name="jp-03-4-text-camping_2x.png" crc="3993040457" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-3-text-travel.png" crc="3809976805" seo="true" ref="home-jp">
+    <file name="jp-03-3-text-travel.png" crc="4135135074" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-3-text-travel_2x.png" crc="3809976805" seo="true" ref="home-jp">
+    <file name="jp-03-3-text-travel_2x.png" crc="4135135074" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-5-text-nontoxic.png" crc="4065610551" seo="true" ref="home-jp">
+    <file name="jp-03-5-text-nontoxic.png" crc="200859112" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-03-5-text-nontoxic_2x.png" crc="4065610551" seo="true" ref="home-jp">
+    <file name="jp-03-5-text-nontoxic_2x.png" crc="200859112" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-04-3-text.png" crc="374108891" seo="true" ref="home-jp">
+    <file name="jp-04-3-text.png" crc="4007196267" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-04-3-text_2x.png" crc="374108891" seo="true" ref="home-jp">
+    <file name="jp-04-3-text_2x.png" crc="4007196267" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-04-2-text.png" crc="100414077" seo="true" ref="home-jp">
+    <file name="jp-04-2-text.png" crc="6170059" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-04-2-text_2x.png" crc="100414077" seo="true" ref="home-jp">
+    <file name="jp-04-2-text_2x.png" crc="6170059" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
     <file name="jp-gda-comment-1.png" crc="4075031615" seo="true" ref="home-jp">
@@ -865,74 +865,114 @@
     <file name="jp-gda-comment-2_2x.png" crc="525012639" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-0-text-bottle.png" crc="3779266526" seo="true" ref="home-jp">
+    <file name="jp-05-0-text-bottle.png" crc="427166302" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-0-text-bottle_2x.png" crc="3779266526" seo="true" ref="home-jp">
+    <file name="jp-05-0-text-bottle_2x.png" crc="427166302" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-2-price-reuse-black.png" crc="4278041693" seo="true" ref="home-jp">
+    <file name="jp-05-2-price-reuse-black.png" crc="172534411" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-2-price-reuse-black_2x.png" crc="4278041693" seo="true" ref="home-jp">
+    <file name="jp-05-2-price-reuse-black_2x.png" crc="172534411" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-4-info.png" crc="389638535" seo="true" ref="home-jp">
+    <file name="jp-05-4-info.png" crc="333761240" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-4-info_2x.png" crc="389638535" seo="true" ref="home-jp">
+    <file name="jp-05-4-info_2x.png" crc="333761240" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
     <file name="jp-05-3-prints.png" crc="3789678314" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-3-prints_2x.png" crc="4187932437" seo="true" ref="home-jp">
+    <file name="jp-05-3-prints_2x.png" crc="317255239" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-6-text-cycle.png" crc="265758598" seo="true" ref="home-jp">
+    <file name="jp-05-6-text-cycle.png" crc="4264175735" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-6-text-cycle_2x.png" crc="265758598" seo="true" ref="home-jp">
+    <file name="jp-05-6-text-cycle_2x.png" crc="4264175735" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-8-text-care.png" crc="535028471" seo="true" ref="home-jp">
+    <file name="jp-05-8-text-care.png" crc="3863674422" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-8-text-care_2x.png" crc="535028471" seo="true" ref="home-jp">
+    <file name="jp-05-8-text-care_2x.png" crc="3863674422" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-7-text-happy.png" crc="9499097" seo="true" ref="home-jp">
+    <file name="jp-05-7-text-happy.png" crc="453975476" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-05-7-text-happy_2x.png" crc="9499097" seo="true" ref="home-jp">
+    <file name="jp-05-7-text-happy_2x.png" crc="453975476" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-06-2-text.png" crc="450827107" seo="true" ref="home-jp">
+    <file name="jp-06-2-text.png" crc="522221609" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-06-2-text_2x.png" crc="450827107" seo="true" ref="home-jp">
+    <file name="jp-06-2-text_2x.png" crc="522221609" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-06-3-text.png" crc="531739178" seo="true" ref="home-jp">
+    <file name="jp-06-3-text.png" crc="4177768637" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-06-3-text_2x.png" crc="531739178" seo="true" ref="home-jp">
+    <file name="jp-06-3-text_2x.png" crc="4177768637" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-07-2-title.png" crc="94321810" seo="true" ref="home-jp">
+    <file name="jp-07-2-title.png" crc="3842924018" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-07-2-title_2x.png" crc="25622336" seo="true" ref="home-jp">
+    <file name="jp-07-2-title_2x.png" crc="3881791082" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
     <file name="jp-07-3-more.png" crc="3784996723" seo="true" ref="home-jp">
       <caption webpage="home-jp" alt=""/>
     </file>
-    <file name="jp-07-3-more_2x.png" crc="138192389" seo="true" ref="home-jp">
+    <file name="jp-07-3-more_2x.png" crc="4224448141" seo="true" ref="home-jp">
+      <caption webpage="home-jp" alt=""/>
+    </file>
+    <file name="free-shipping-white.png" crc="475842706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="free-shipping-white_2x.png" crc="4083907575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="free-shipping-black.png" crc="4138072178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="free-shipping-black_2x.png" crc="233486447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-free-shipping-white.png" crc="495704824" seo="true" ref="home-jp">
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
+    </file>
+    <file name="jp-free-shipping-white_2x.png" crc="233257406" seo="true" ref="home-jp">
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
+    </file>
+    <file name="jp-free-shipping-black.png" crc="3928175100" seo="true" ref="home-jp">
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
+    </file>
+    <file name="jp-free-shipping-black_2x.png" crc="3875812448" seo="true" ref="home-jp">
+      <caption webpage="home-jp" alt=""/>
+      <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4186989340" seo="true" mt="1553236206137" redirect="true"/>
-  <file name="home-en.html" crc="3763198334" seo="true" mt="1553128456469" redirect="true"/>
-  <file name="home-jp.html" crc="185974357" seo="true" mt="1553236177956" redirect="true"/>
+  <file name="index.html" crc="4259959371" seo="true" mt="1553290584248" redirect="true"/>
+  <file name="home-en.html" crc="512192671" seo="true" mt="1553291141069" redirect="true"/>
+  <file name="home-jp.html" crc="328533100" seo="true" mt="1553290696401" redirect="true"/>
 </manifest>
