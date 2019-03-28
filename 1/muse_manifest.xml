@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.chachawash.com" resolutions="1x" timestamp="1553766460264">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.chachawash.com" resolutions="1x" timestamp="1553766608961">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="145742101" ref="index"/>
+    <file name="index.css" crc="4065072795" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,17 +16,17 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="p1-crop-u147.jpg" crc="531207647" seo="true" ref="index">
+    <file name="p1-crop-u147.jpg" crc="261510932" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="p2-crop-u249.jpg" crc="4013390541" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="p3-crop-u269.jpg" crc="342222404" seo="true" ref="index">
+    <file name="p3-crop-u269.jpg" crc="373047465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="p2.jpg" crc="418368627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="33245995" seo="true" mt="1553766390800" redirect="true"/>
+  <file name="index.html" crc="4080716093" seo="true" mt="1553766602364" redirect="true"/>
 </manifest>
