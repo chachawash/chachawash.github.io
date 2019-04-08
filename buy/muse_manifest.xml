@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1554731878731">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1554735597951">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3985718468" ref="index"/>
-    <file name="jp.css" crc="473497792" ref="jp"/>
-    <file name="en.css" crc="4075306012" ref="en"/>
-    <file name="tw.css" crc="16171780" ref="tw"/>
+    <file name="index.css" crc="4211240780" ref="index"/>
+    <file name="jp.css" crc="516684919" ref="jp"/>
+    <file name="en.css" crc="3867627563" ref="en"/>
+    <file name="tw.css" crc="3999124764" ref="tw"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:jp:tw"/>
@@ -18,7 +18,7 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="357807509" ref="tw"/>
-    <file name="01-1-hero.jpg" crc="119123163" ref="index:en:jp:tw">
+    <file name="01-1-hero.jpg" crc="95787665" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -70,7 +70,7 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-buy-1.png" crc="3776019401" seo="true" ref="index:en:jp:tw">
+    <file name="-buy-1.png" crc="4096739226" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -90,7 +90,7 @@
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-buy-1_2x.png" crc="4132394235" seo="true" ref="index:en:jp:tw">
+    <file name="-buy-1_2x.png" crc="437173244" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -174,7 +174,7 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-buy-2.png" crc="514425494" seo="true" ref="index:en:jp:tw">
+    <file name="-buy-2.png" crc="257762877" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -194,7 +194,7 @@
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-buy-2_2x.png" crc="227837660" seo="true" ref="index:en:jp:tw">
+    <file name="-buy-2_2x.png" crc="3861136394" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -292,7 +292,7 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="03-1-small-box.jpg" crc="3914862064" ref="index:en:jp:tw">
+    <file name="03-1-small-box.jpg" crc="144345845" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -386,7 +386,7 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="04-1-cube.jpg" crc="505989416" ref="index:en:jp:tw">
+    <file name="04-1-cube.jpg" crc="10738563" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -470,7 +470,7 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="05-1-bottle.jpg" crc="149363764" ref="index:en:jp:tw">
+    <file name="05-1-bottle.jpg" crc="69073536" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -1121,8 +1121,8 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="17854493" seo="true" mt="1554731853084" redirect="true"/>
-  <file name="en.html" crc="353118694" seo="true" mt="1554731848909" redirect="true"/>
-  <file name="jp.html" crc="471162690" seo="true" mt="1554731848909" redirect="true"/>
-  <file name="tw.html" crc="102371433" seo="true" mt="1554731848910" redirect="true"/>
+  <file name="index.html" crc="401872142" seo="true" mt="1554735583993" redirect="true"/>
+  <file name="en.html" crc="69305605" seo="true" mt="1554735583994" redirect="true"/>
+  <file name="jp.html" crc="3822670835" seo="true" mt="1554735583992" redirect="true"/>
+  <file name="tw.html" crc="3959890323" seo="true" mt="1554735583995" redirect="true"/>
 </manifest>
