@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1555936787818">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1556121432423">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
+    <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4246545571" ref="index"/>
     <file name="jp.css" crc="172703117" ref="jp"/>
-    <file name="en.css" crc="20285656" ref="en"/>
+    <file name="en.css" crc="3778901186" ref="en"/>
     <file name="tw.css" crc="313916020" ref="tw"/>
   </folder>
   <folder name="scripts">
@@ -17,7 +17,7 @@
     <file name="require.js" crc="7928878" ref="index:en:jp:tw"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="tw"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="tw:en"/>
     <file name="01-1-hero.jpg" crc="4156781788" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -1128,7 +1128,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4117286685" seo="true" mt="1555936744805" redirect="true"/>
-  <file name="en.html" crc="378884982" seo="true" mt="1555936615107" redirect="true"/>
+  <file name="en.html" crc="4260296415" seo="true" mt="1556121415332" redirect="true"/>
   <file name="jp.html" crc="3836318529" seo="true" mt="1555936667685" redirect="true"/>
   <file name="tw.html" crc="4112741975" seo="true" mt="1555936706083" redirect="true"/>
 </manifest>
