@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557747263661">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557748019190">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="37750444" ref="index"/>
+    <file name="index.css" crc="172972469" ref="index"/>
     <file name="jp.css" crc="172703117" ref="jp"/>
     <file name="en.css" crc="56978195" ref="en"/>
-    <file name="tw.css" crc="390975280" ref="tw"/>
+    <file name="tw.css" crc="494938196" ref="tw"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:jp:tw"/>
@@ -30,16 +30,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="01-2-logotype-white_2x.png" crc="420126115" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="01-3-title.png" crc="341400593" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -84,12 +84,12 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="-buy-1_2x.png" crc="120191831" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
@@ -104,12 +104,12 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="01-4-price-home.png" crc="4077940141" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -129,9 +129,9 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="01-7-gmark-black-red_2x.png" crc="3853921005" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
@@ -141,9 +141,9 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-1-big-box.jpg" crc="3991335463" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
@@ -175,12 +175,12 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="-buy-2_2x.png" crc="4022066615" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
@@ -195,28 +195,28 @@
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-4-icon-baby.png" crc="3936018600" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-4-icon-baby_2x.png" crc="3936018600" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-4-text-baby.png" crc="4060449859" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -233,32 +233,32 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-3-icon-kitchen_2x.png" crc="497309479" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-5-icon-pet.png" crc="432358677" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-5-icon-pet_2x.png" crc="432358677" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="02-3-text-kitchen.png" crc="113484139" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -302,16 +302,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="03-4-icon-camping_2x.png" crc="4048600184" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="03-4-text-camping.png" crc="4164833155" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -328,32 +328,32 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="03-3-icon-travel_2x.png" crc="1661414" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="03-5-icon-nontoxic.png" crc="3846655642" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="03-5-icon-nontoxic_2x.png" crc="3846655642" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="03-3-text-travel.png" crc="444298124" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -387,16 +387,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="04-2-icon_2x.gif" crc="3971612974" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="04-3-text.png" crc="4173612660" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -413,16 +413,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="04-3-icon_2x.gif" crc="4154814068" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="04-2-text.png" crc="431862266" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -439,16 +439,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-0-icon-bottle_2x.png" crc="402324175" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-0-text-bottle.png" crc="4075362454" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -496,10 +496,10 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="-line_2x.png" crc="187704278" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
@@ -510,10 +510,10 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-3-prints.png" crc="459251007" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -530,16 +530,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-6-icon-cycle_2x.png" crc="251141758" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-6-text-cycle.png" crc="3965492442" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -556,32 +556,32 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-7-icon-happy_2x.png" crc="3907401134" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-8-icon-care.png" crc="523962135" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-8-icon-care_2x.png" crc="523962135" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="05-8-text-care.png" crc="118661234" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -615,16 +615,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="06-2-icon_2x.png" crc="4098796108" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="06-2-text.png" crc="4226068897" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -641,16 +641,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="06-3-icon_2x.png" crc="112018186" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="06-3-text.png" crc="337586938" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -667,16 +667,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="07-1-logotype-black_2x.png" crc="3952034060" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="07-2-title.png" crc="254352714" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -693,16 +693,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="07-4-enter_2x.png" crc="356307024" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="07-3-more.png" crc="3803814007" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -719,64 +719,64 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-email_2x.gif" crc="306251621" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-facebook.gif" crc="4081937728" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-facebook_2x.gif" crc="4081937728" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-facebookmessanger.gif" crc="90072550" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-facebookmessanger_2x.gif" crc="90072550" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-twitter.gif" crc="89062490" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="contact-twitter_2x.gif" crc="89062490" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="gda-comment-1.png" crc="4018342410" seo="true" ref="index:tw">
       <caption webpage="index" alt=""/>
@@ -813,16 +813,16 @@
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="-languages_2x.png" crc="3769115919" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
-      <caption webpage="home-en" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="home-en" alt=""/>
     </file>
     <file name="jp-01-3-title.png" crc="4272183387" seo="true" ref="jp">
       <caption webpage="home-jp" alt=""/>
@@ -1187,17 +1187,17 @@
     <file name="00-plant-photo.jpg" crc="4179336974" ref="tw:index">
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-c-title.png" crc="374494529" seo="true" ref="tw:index">
+    <file name="00-c-title.png" crc="458139847" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-c-title_2x.png" crc="3997202125" seo="true" ref="tw:index">
+    <file name="00-c-title_2x.png" crc="3944898543" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3992613680" seo="true" mt="1557747246614" redirect="true"/>
-  <file name="en.html" crc="4173452144" seo="true" mt="1557747233135" redirect="true"/>
-  <file name="jp.html" crc="4191754444" seo="true" mt="1557747233135" redirect="true"/>
-  <file name="tw.html" crc="4128256767" seo="true" mt="1557747246613" redirect="true"/>
+  <file name="index.html" crc="3829827344" seo="true" mt="1557747911943" redirect="true"/>
+  <file name="en.html" crc="4042614955" seo="true" mt="1557747911942" redirect="true"/>
+  <file name="jp.html" crc="496324958" seo="true" mt="1557747911942" redirect="true"/>
+  <file name="tw.html" crc="3830103960" seo="true" mt="1557747911943" redirect="true"/>
 </manifest>
