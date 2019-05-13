@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557743594712">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557744550204">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="82083886" ref="index"/>
+    <file name="index.css" crc="4217913793" ref="index"/>
     <file name="jp.css" crc="172703117" ref="jp"/>
     <file name="en.css" crc="56978195" ref="en"/>
-    <file name="tw.css" crc="4268908928" ref="tw"/>
+    <file name="tw.css" crc="265723918" ref="tw"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:jp:tw"/>
@@ -1112,91 +1112,81 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="00-a-icon-tea.png" crc="3970993840" seo="true" ref="tw:index">
+    <file name="00-a-icon-tea.png" crc="216732435" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-icon-tea_2x.png" crc="3970993840" seo="true" ref="tw:index">
+    <file name="00-a-icon-tea_2x.png" crc="18454579" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-title.png" crc="4197384247" seo="true" ref="tw:index">
+    <file name="00-a-title.png" crc="3971965224" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-title_2x.png" crc="4035411329" seo="true" ref="tw:index">
+    <file name="00-a-title_2x.png" crc="4251583268" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-plant.png" crc="119717899" seo="true" ref="tw:index">
+    <file name="00-a-plant.png" crc="4132496774" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-plant_2x.png" crc="119717899" seo="true" ref="tw:index">
+    <file name="00-a-plant_2x.png" crc="16042187" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-line-green.png" crc="4200633126" seo="true" ref="tw:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="tw" alt=""/>
-      <caption webpage="tw" alt=""/>
-    </file>
-    <file name="-line-green_2x.png" crc="3905881918" seo="true" ref="tw:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="tw" alt=""/>
-      <caption webpage="tw" alt=""/>
-    </file>
-    <file name="00-a-plant-info-a.png" crc="4037852963" seo="true" ref="tw:index">
+    <file name="00-a-plant-info-a.png" crc="94555380" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-plant-info-a_2x.png" crc="4037852963" seo="true" ref="tw:index">
+    <file name="00-a-plant-info-a_2x.png" crc="94555380" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-plant-info-b.png" crc="479624746" seo="true" ref="tw:index">
+    <file name="00-a-plant-info-b.png" crc="468652801" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-plant-info-b_2x.png" crc="479624746" seo="true" ref="tw:index">
+    <file name="00-a-plant-info-b_2x.png" crc="468652801" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-icon-hand.png" crc="4255664525" seo="true" ref="tw:index">
+    <file name="00-a-icon-hand.png" crc="482691263" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-icon-hand_2x.png" crc="4255664525" seo="true" ref="tw:index">
+    <file name="00-a-icon-hand_2x.png" crc="3946823634" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-b-title.png" crc="283103521" seo="true" ref="tw:index">
+    <file name="00-b-title.png" crc="151492164" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-b-title_2x.png" crc="3949770890" seo="true" ref="tw:index">
+    <file name="00-b-title_2x.png" crc="46023768" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-b-molecule.png" crc="4257693266" seo="true" ref="tw:index">
+    <file name="00-b-molecule.png" crc="4054331289" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-b-molecule_2x.png" crc="227773461" seo="true" ref="tw:index">
+    <file name="00-b-molecule_2x.png" crc="6619993" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-b-molecule-info-a.png" crc="4007751105" seo="true" ref="tw">
+    <file name="00-b-molecule-info-a.png" crc="155569036" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-b-molecule-info-a_2x.png" crc="4007751105" seo="true" ref="tw">
+    <file name="00-b-molecule-info-a_2x.png" crc="155569036" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4214689206" seo="true" mt="1557743483592" redirect="true"/>
-  <file name="en.html" crc="202833994" seo="true" mt="1557741271190" redirect="true"/>
-  <file name="jp.html" crc="3847233867" seo="true" mt="1557741271189" redirect="true"/>
-  <file name="tw.html" crc="42831491" seo="true" mt="1557743567168" redirect="true"/>
+  <file name="index.html" crc="517077570" seo="true" mt="1557744520745" redirect="true"/>
+  <file name="en.html" crc="4095692693" seo="true" mt="1557744520744" redirect="true"/>
+  <file name="jp.html" crc="360032311" seo="true" mt="1557744520743" redirect="true"/>
+  <file name="tw.html" crc="339734187" seo="true" mt="1557744520746" redirect="true"/>
 </manifest>

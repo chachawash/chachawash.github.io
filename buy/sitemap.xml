@@ -354,12 +354,6 @@
       <image:loc>https://chachawash.github.io/images/00-a-plant_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/-line-green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-line-green_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/00-a-plant-info-a.png</image:loc>
     </image:image>
     <image:image>
@@ -388,6 +382,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/00-b-molecule_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule-info-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule-info-a_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1252,12 +1252,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/00-a-plant_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-line-green.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/-line-green_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/00-a-plant-info-a.png</image:loc>
