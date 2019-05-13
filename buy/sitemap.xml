@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chachawash.github.io/index.html</loc>
-    <lastmod>2019-04-22</lastmod>
+    <lastmod>2019-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,12 +46,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/01-7-gmark-black-red_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/01-8-gda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/01-8-gda_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/02-2-price-home-black.png</image:loc>
@@ -341,10 +335,64 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/free-shipping-black_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-tea.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-tea_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-title_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line-green.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line-green_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-hand.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-hand_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-title_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/en.html</loc>
-    <lastmod>2019-04-24</lastmod>
+    <lastmod>2019-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -512,7 +560,7 @@
   </url>
   <url>
     <loc>https://chachawash.github.io/jp.html</loc>
-    <lastmod>2019-04-22</lastmod>
+    <lastmod>2019-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -854,7 +902,7 @@
   </url>
   <url>
     <loc>https://chachawash.github.io/tw.html</loc>
-    <lastmod>2019-04-22</lastmod>
+    <lastmod>2019-05-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -898,12 +946,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/01-7-gmark-black-red_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/01-8-gda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/01-8-gda_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/02-2-price-home-black.png</image:loc>
@@ -1192,6 +1234,60 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/free-shipping-black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-tea.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-tea_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-title_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line-green.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/-line-green_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-plant-info-b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-hand.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-a-icon-hand_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-title_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>

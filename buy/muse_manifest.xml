@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1556121432423">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557741301077">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4246545571" ref="index"/>
+    <file name="index.css" crc="240368862" ref="index"/>
     <file name="jp.css" crc="172703117" ref="jp"/>
-    <file name="en.css" crc="3778901186" ref="en"/>
-    <file name="tw.css" crc="313916020" ref="tw"/>
+    <file name="en.css" crc="56978195" ref="en"/>
+    <file name="tw.css" crc="3771535268" ref="tw"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:jp:tw"/>
@@ -17,7 +17,7 @@
     <file name="require.js" crc="7928878" ref="index:en:jp:tw"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="tw:en"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="tw"/>
     <file name="01-1-hero.jpg" crc="4156781788" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
       <caption webpage="home-jp" alt=""/>
@@ -123,7 +123,6 @@
     </file>
     <file name="01-7-gmark-black-red.png" crc="201824167" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -132,12 +131,10 @@
       <caption webpage="en" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-en" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
     <file name="01-7-gmark-black-red_2x.png" crc="3853921005" seo="true" ref="index:en:jp:tw">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="home-jp" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -146,17 +143,6 @@
       <caption webpage="en" alt=""/>
       <caption webpage="home-en" alt=""/>
       <caption webpage="home-en" alt=""/>
-      <caption webpage="tw" alt=""/>
-      <caption webpage="tw" alt=""/>
-    </file>
-    <file name="01-8-gda.png" crc="209079727" seo="true" ref="index:tw">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-jp" alt=""/>
-      <caption webpage="tw" alt=""/>
-    </file>
-    <file name="01-8-gda_2x.png" crc="412700244" seo="true" ref="index:tw">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home-jp" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
     <file name="02-1-big-box.jpg" crc="3991335463" ref="index:en:jp:tw">
@@ -1126,9 +1112,85 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
+    <file name="00-a-icon-tea.png" crc="290141338" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-icon-tea_2x.png" crc="290141338" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-title.png" crc="4197384247" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-title_2x.png" crc="4035411329" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-plant.png" crc="119717899" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-plant_2x.png" crc="119717899" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="-line-green.png" crc="35751230" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="-line-green_2x.png" crc="4266422752" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-plant-info-a.png" crc="4037852963" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-plant-info-a_2x.png" crc="4037852963" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-plant-info-b.png" crc="479624746" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-plant-info-b_2x.png" crc="479624746" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-icon-hand.png" crc="142271773" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-a-icon-hand_2x.png" crc="142271773" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-b-title.png" crc="283103521" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-b-title_2x.png" crc="3949770890" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-b-molecule.png" crc="453584456" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="00-b-molecule_2x.png" crc="4079027491" seo="true" ref="tw:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4117286685" seo="true" mt="1555936744805" redirect="true"/>
-  <file name="en.html" crc="4260296415" seo="true" mt="1556121415332" redirect="true"/>
-  <file name="jp.html" crc="3836318529" seo="true" mt="1555936667685" redirect="true"/>
-  <file name="tw.html" crc="4112741975" seo="true" mt="1555936706083" redirect="true"/>
+  <file name="index.html" crc="66799952" seo="true" mt="1557741271191" redirect="true"/>
+  <file name="en.html" crc="202833994" seo="true" mt="1557741271190" redirect="true"/>
+  <file name="jp.html" crc="3847233867" seo="true" mt="1557741271189" redirect="true"/>
+  <file name="tw.html" crc="4117974664" seo="true" mt="1557741271192" redirect="true"/>
 </manifest>
