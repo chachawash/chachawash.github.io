@@ -1289,5 +1289,11 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/00-b-molecule_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule-info-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/00-b-molecule-info-a_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
