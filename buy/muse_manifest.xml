@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557742667305">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557742895785">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="82083886" ref="index"/>
     <file name="jp.css" crc="172703117" ref="jp"/>
     <file name="en.css" crc="56978195" ref="en"/>
-    <file name="tw.css" crc="273249495" ref="tw"/>
+    <file name="tw.css" crc="3847469426" ref="tw"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:jp:tw"/>
@@ -1136,13 +1136,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-line-green.png" crc="35751230" seo="true" ref="tw:index">
+    <file name="-line-green.png" crc="4200633126" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="-line-green_2x.png" crc="4266422752" seo="true" ref="tw:index">
+    <file name="-line-green_2x.png" crc="3905881918" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
@@ -1195,8 +1195,8 @@
       <caption webpage="tw" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="40064436" seo="true" mt="1557741849299" redirect="true"/>
+  <file name="index.html" crc="4139617449" seo="true" mt="1557742861223" redirect="true"/>
   <file name="en.html" crc="202833994" seo="true" mt="1557741271190" redirect="true"/>
   <file name="jp.html" crc="3847233867" seo="true" mt="1557741271189" redirect="true"/>
-  <file name="tw.html" crc="387395778" seo="true" mt="1557742600537" redirect="true"/>
+  <file name="tw.html" crc="3940976403" seo="true" mt="1557742876969" redirect="true"/>
 </manifest>
