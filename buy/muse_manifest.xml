@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557743147554">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557743509661">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="82083886" ref="index"/>
@@ -1112,11 +1112,11 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="00-a-icon-tea.png" crc="290141338" seo="true" ref="tw:index">
+    <file name="00-a-icon-tea.png" crc="3970993840" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-icon-tea_2x.png" crc="290141338" seo="true" ref="tw:index">
+    <file name="00-a-icon-tea_2x.png" crc="3970993840" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
@@ -1164,11 +1164,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-icon-hand.png" crc="142271773" seo="true" ref="tw:index">
+    <file name="00-a-icon-hand.png" crc="4255664525" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
-    <file name="00-a-icon-hand_2x.png" crc="142271773" seo="true" ref="tw:index">
+    <file name="00-a-icon-hand_2x.png" crc="4255664525" seo="true" ref="tw:index">
       <caption webpage="index" alt=""/>
       <caption webpage="tw" alt=""/>
     </file>
@@ -1195,8 +1195,8 @@
       <caption webpage="tw" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4139617449" seo="true" mt="1557742861223" redirect="true"/>
+  <file name="index.html" crc="4214689206" seo="true" mt="1557743483592" redirect="true"/>
   <file name="en.html" crc="202833994" seo="true" mt="1557741271190" redirect="true"/>
   <file name="jp.html" crc="3847233867" seo="true" mt="1557741271189" redirect="true"/>
-  <file name="tw.html" crc="4185995058" seo="true" mt="1557743125570" redirect="true"/>
+  <file name="tw.html" crc="4266548590" seo="true" mt="1557743483708" redirect="true"/>
 </manifest>
