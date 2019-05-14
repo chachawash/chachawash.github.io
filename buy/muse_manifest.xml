@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557789008051">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1557822113287">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
+    <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="203080137" ref="index"/>
     <file name="jp.css" crc="4062914499" ref="jp"/>
-    <file name="en.css" crc="4095218131" ref="en"/>
+    <file name="en.css" crc="163221441" ref="en"/>
     <file name="tw.css" crc="4208902500" ref="tw"/>
   </folder>
   <folder name="scripts">
@@ -1262,8 +1262,8 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4273125891" seo="true" mt="1557788990896" redirect="true"/>
-  <file name="en.html" crc="3815163393" seo="true" mt="1557788990897" redirect="true"/>
-  <file name="jp.html" crc="3817713280" seo="true" mt="1557788990894" redirect="true"/>
-  <file name="tw.html" crc="3911132442" seo="true" mt="1557788990895" redirect="true"/>
+  <file name="index.html" crc="4045854530" seo="true" mt="1557822093799" redirect="true"/>
+  <file name="en.html" crc="366227158" seo="true" mt="1557822093800" redirect="true"/>
+  <file name="jp.html" crc="3848279513" seo="true" mt="1557822093796" redirect="true"/>
+  <file name="tw.html" crc="379299276" seo="true" mt="1557822093797" redirect="true"/>
 </manifest>
