@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578827543042">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578828898113">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="animation.css" crc="4223256042" ref="animation"/>
-    <file name="works.css" crc="4214203938" ref="works"/>
-    <file name="index.css" crc="3892791051" ref="index"/>
-    <file name="paint.css" crc="42953223" ref="paint"/>
+    <file name="animation.css" crc="4165163065" ref="animation"/>
+    <file name="works.css" crc="4082259611" ref="works"/>
+    <file name="index.css" crc="345518775" ref="index"/>
+    <file name="paint.css" crc="28897148" ref="paint"/>
   </folder>
   <folder name="assets">
     <file name="home.jpg" crc="153916564" seo="true" mt="1578823762000"/>
@@ -23,8 +23,8 @@
     <file name="touchswipe.js" crc="3888935200" ref="works:animation:paint"/>
   </folder>
   <folder name="images">
-    <file name="u661-4.png" crc="68039406" ref="index"/>
-    <file name="u675-4.png" crc="3828393496" ref="index"/>
+    <file name="u661-6.png" crc="4116167824" ref="index"/>
+    <file name="u675-4.png" crc="122263282" ref="index"/>
     <file name="u681-4.png" crc="4283634586" ref="index"/>
     <file name="home.jpg" crc="153916564" ref="index">
       <caption webpage="index" alt=""/>
@@ -150,8 +150,8 @@
     <file name="animation.html" crc="530355875" seo="true" mt="1578819503534" redirect="false"/>
     <file name="paint.html" crc="121540256" seo="true" mt="1578819503551" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4294290005" seo="true" mt="1578827521410" redirect="true"/>
-  <file name="works.html" crc="4145172786" seo="true" mt="1578821448191" redirect="true"/>
-  <file name="animation.html" crc="4203404110" seo="true" mt="1578821443996" redirect="true"/>
-  <file name="paint.html" crc="165530573" seo="true" mt="1578821434165" redirect="true"/>
+  <file name="index.html" crc="88434917" seo="true" mt="1578828866517" redirect="true"/>
+  <file name="works.html" crc="3780476054" seo="true" mt="1578828866517" redirect="true"/>
+  <file name="animation.html" crc="4081157215" seo="true" mt="1578828866517" redirect="true"/>
+  <file name="paint.html" crc="383500979" seo="true" mt="1578828866517" redirect="true"/>
 </manifest>
