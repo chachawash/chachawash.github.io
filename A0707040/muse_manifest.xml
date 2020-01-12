@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578827280792">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yachiehchangWorks.com" resolutions="1x" timestamp="1578827543042">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="animation.css" crc="4223256042" ref="animation"/>
     <file name="works.css" crc="4214203938" ref="works"/>
-    <file name="index.css" crc="3838842011" ref="index"/>
+    <file name="index.css" crc="3892791051" ref="index"/>
     <file name="paint.css" crc="42953223" ref="paint"/>
   </folder>
   <folder name="assets">
@@ -23,12 +23,12 @@
     <file name="touchswipe.js" crc="3888935200" ref="works:animation:paint"/>
   </folder>
   <folder name="images">
-    <file name="home.jpg" crc="153916564" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u661-4.png" crc="68039406" ref="index"/>
     <file name="u675-4.png" crc="3828393496" ref="index"/>
     <file name="u681-4.png" crc="4283634586" ref="index"/>
+    <file name="home.jpg" crc="153916564" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u1877-4.png" crc="3829776372" ref="works"/>
     <file name="works_01.png" crc="3822777858" seo="true" ref="works">
       <caption webpage="works" alt=""/>
@@ -150,7 +150,7 @@
     <file name="animation.html" crc="530355875" seo="true" mt="1578819503534" redirect="false"/>
     <file name="paint.html" crc="121540256" seo="true" mt="1578819503551" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4053028742" seo="true" mt="1578827238880" redirect="true"/>
+  <file name="index.html" crc="4294290005" seo="true" mt="1578827521410" redirect="true"/>
   <file name="works.html" crc="4145172786" seo="true" mt="1578821448191" redirect="true"/>
   <file name="animation.html" crc="4203404110" seo="true" mt="1578821443996" redirect="true"/>
   <file name="paint.html" crc="165530573" seo="true" mt="1578821434165" redirect="true"/>
