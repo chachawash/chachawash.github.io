@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587207621707">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587235010750">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4110989975" ref="index"/>
-    <file name="intro.css" crc="4111739358" ref="intro"/>
+    <file name="index.css" crc="3908457010" ref="index"/>
+    <file name="intro.css" crc="3967533889" ref="intro"/>
   </folder>
   <folder name="assets">
-    <file name="bg-video.mp4" crc="3933795070" seo="true" mt="1586996117000"/>
+    <file name="bg-video.mp4" crc="118442835" seo="true" mt="1587234106000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -787,6 +787,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="492576937" seo="true" mt="1587207602387" redirect="true"/>
-  <file name="intro.html" crc="3846013263" seo="true" mt="1587167522909" redirect="true"/>
+  <file name="index.html" crc="444161314" seo="true" mt="1587234993351" redirect="true"/>
+  <file name="intro.html" crc="4014224304" seo="true" mt="1587234919211" redirect="true"/>
 </manifest>
