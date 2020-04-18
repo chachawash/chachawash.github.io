@@ -60,12 +60,6 @@
       <image:loc>https://chachawash.github.io/images/jp-02b0a-w_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-02cw.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-02cw_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/gif-2c.gif</image:loc>
     </image:image>
     <image:image>
@@ -144,10 +138,10 @@
       <image:loc>https://chachawash.github.io/images/jp-08c_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-08d.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/jp-08d-w.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-08d_2x.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/jp-08d-w_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-email-w.gif</image:loc>
@@ -173,10 +167,16 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-messanger-w_2x.gif</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-02c-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-02c-w_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/intro.html</loc>
-    <lastmod>2020-04-17</lastmod>
+    <lastmod>2020-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
