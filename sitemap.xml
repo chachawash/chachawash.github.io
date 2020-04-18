@@ -179,6 +179,12 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/pic-seed-circle-2_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/company-logotype-w109x180.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/company-logotype-w109x180_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/intro.html</loc>
