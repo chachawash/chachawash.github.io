@@ -42,12 +42,6 @@
       <image:loc>https://chachawash.github.io/images/jp-00a-line_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/pic-seed-circle.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/pic-seed-circle_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-02b2-w.png</image:loc>
     </image:image>
     <image:image>
@@ -172,6 +166,18 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-02c-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/pic-seed-circle-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/pic-seed-circle-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/pic-seed-circle-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/pic-seed-circle-2_2x.png</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587168697300">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587206476884">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="516065253" ref="index"/>
+    <file name="index.css" crc="3869438962" ref="index"/>
     <file name="intro.css" crc="4111739358" ref="intro"/>
   </folder>
   <folder name="assets">
@@ -61,12 +61,6 @@
     </file>
     <file name="jp-00a-line_2x.png" crc="4034324970" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic-seed-circle.png" crc="3954755951" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic-seed-circle_2x.png" crc="189495375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-02b2-w.png" crc="39574626" seo="true" ref="index">
@@ -774,7 +768,19 @@
     <file name="jp-02c-w_2x.png" crc="165765841" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pic-seed-circle-1.png" crc="3954755951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-seed-circle-1_2x.png" crc="189495375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-seed-circle-2.png" crc="322523061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-seed-circle-2_2x.png" crc="4251053727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4152847692" seo="true" mt="1587168673342" redirect="true"/>
+  <file name="index.html" crc="522584455" seo="true" mt="1587206458760" redirect="true"/>
   <file name="intro.html" crc="3846013263" seo="true" mt="1587167522909" redirect="true"/>
 </manifest>
