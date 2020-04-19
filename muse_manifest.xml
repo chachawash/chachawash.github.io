@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587258129905">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587258619695">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4205425837" ref="index"/>
@@ -93,12 +93,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-02c-w_2x.png" crc="165765841" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-gmark.png" crc="388217568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-gmark_2x.png" crc="388217568" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-02e-w.png" crc="4214597717" seo="true" ref="index">
@@ -798,7 +792,13 @@
     <file name="icon-bottom-messanger_2x.gif" crc="90072550" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
+    <file name="icon-gmark-w.png" crc="270745655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-gmark-w_2x.png" crc="20580657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="527005725" seo="true" mt="1587258082560" redirect="true"/>
+  <file name="index.html" crc="293141133" seo="true" mt="1587258598682" redirect="true"/>
   <file name="intro.html" crc="56053311" seo="true" mt="1587253547501" redirect="true"/>
 </manifest>
