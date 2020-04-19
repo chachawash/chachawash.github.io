@@ -72,18 +72,6 @@
       <image:loc>https://chachawash.github.io/images/jp-02c-w_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-gmark-w.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-gmark-w_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-02e-w.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-02e-w_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/gif-2c.gif</image:loc>
     </image:image>
     <image:image>
@@ -196,6 +184,18 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-messanger-w_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-gmark-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-gmark-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-02e-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-02e-w_2x.png</image:loc>
     </image:image>
   </url>
   <url>
