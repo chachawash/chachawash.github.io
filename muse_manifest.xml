@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587236372150">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587256743078">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="500097033" ref="index"/>
+    <file name="index.css" crc="183323070" ref="index"/>
     <file name="intro.css" crc="3967533889" ref="intro"/>
   </folder>
   <folder name="assets">
-    <file name="bg-video.mp4" crc="118442835" seo="true" mt="1587234106000"/>
+    <file name="bg-video.mp4" crc="3786181321" seo="true" mt="1587240755000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -561,7 +561,7 @@
     <file name="jp-06a_2x.png" crc="299676252" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="gif-4a.gif" crc="489562417" seo="true" ref="intro">
+    <file name="gif-4a.gif" crc="477897130" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-4b.gif" crc="267732953" seo="true" ref="intro">
@@ -576,7 +576,7 @@
     <file name="jp-06b_2x.png" crc="533234005" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="gif-4b.gif" crc="3996825329" seo="true" ref="intro">
+    <file name="gif-4b.gif" crc="3977494236" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-4c.gif" crc="519999773" seo="true" ref="intro">
@@ -591,7 +591,7 @@
     <file name="jp-06c_2x.png" crc="4154475999" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="gif-4c.gif" crc="4239509468" seo="true" ref="intro">
+    <file name="gif-4c.gif" crc="4026329054" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-d.png" crc="204199353" seo="true" ref="intro">
@@ -787,6 +787,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4255101574" seo="true" mt="1587236351372" redirect="true"/>
-  <file name="intro.html" crc="4279831350" seo="true" mt="1587234919211" redirect="true"/>
+  <file name="index.html" crc="46430315" seo="true" mt="1587256710323" redirect="true"/>
+  <file name="intro.html" crc="3762883565" seo="true" mt="1587253547501" redirect="true"/>
 </manifest>
