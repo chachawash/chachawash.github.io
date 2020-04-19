@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587256743078">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587258129905">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="183323070" ref="index"/>
+    <file name="index.css" crc="4205425837" ref="index"/>
     <file name="intro.css" crc="3967533889" ref="intro"/>
   </folder>
   <folder name="assets">
@@ -93,6 +93,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-02c-w_2x.png" crc="165765841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-gmark.png" crc="388217568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-gmark_2x.png" crc="388217568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02e-w.png" crc="4214597717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02e-w_2x.png" crc="282997200" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-2c.gif" crc="219408627" seo="true" ref="index:intro">
@@ -257,12 +269,12 @@
     <file name="jp-02a_2x.png" crc="4057578788" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="icon-gmark.png" crc="523131529" seo="true" ref="intro">
+    <file name="icon-gmark70x70.png" crc="523131529" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="icon-gmark_2x.png" crc="388217568" seo="true" ref="intro">
+    <file name="icon-gmark70x70_2x.png" crc="388217568" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -787,6 +799,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="46430315" seo="true" mt="1587256710323" redirect="true"/>
-  <file name="intro.html" crc="3762883565" seo="true" mt="1587253547501" redirect="true"/>
+  <file name="index.html" crc="527005725" seo="true" mt="1587258082560" redirect="true"/>
+  <file name="intro.html" crc="56053311" seo="true" mt="1587253547501" redirect="true"/>
 </manifest>
