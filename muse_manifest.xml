@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587498984803">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587507416877">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="141756162" ref="index"/>
@@ -812,5 +812,5 @@
     </file>
   </folder>
   <file name="index.html" crc="3775667861" seo="true" mt="1587336880165" redirect="true"/>
-  <file name="intro.html" crc="449179097" seo="true" mt="1587498957510" redirect="true"/>
+  <file name="intro.html" crc="4221667235" seo="true" mt="1587507392446" redirect="true"/>
 </manifest>
