@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587507416877">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1587686330947">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="141756162" ref="index"/>
-    <file name="intro.css" crc="3868580671" ref="intro"/>
+    <file name="index.css" crc="448609476" ref="index"/>
+    <file name="intro.css" crc="4176867801" ref="intro"/>
   </folder>
   <folder name="assets">
-    <file name="bg-video.mp4" crc="3786181321" seo="true" mt="1587240755000"/>
+    <file name="bg-video.mp4" crc="86379952" seo="true" mt="1587597147000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -20,7 +20,7 @@
     <file name="require.js" crc="7928878" ref="index:intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3869808481" ref="index:intro"/>
+    <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
     <file name="company-logotype-w.png" crc="4271495680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -810,7 +810,43 @@
     <file name="icon-bottom-messanger_2x.gif" crc="90072550" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
+    <file name="icon-bottom-instagram-w.gif" crc="37552625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-instagram-w_2x.gif" crc="37552625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-tumblr-w.gif" crc="4041622969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-tumblr-w_2x.gif" crc="4041622969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-instagram.gif" crc="3762143794" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="icon-bottom-instagram_2x.gif" crc="3762143794" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="icon-bottom-tumblr.gif" crc="220952180" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="icon-bottom-tumblr_2x.gif" crc="220952180" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="icon-bottom-line-w.gif" crc="3979494648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-line-w_2x.gif" crc="3979494648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-line.gif" crc="4107553272" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
+    </file>
+    <file name="icon-bottom-line_2x.gif" crc="4107553272" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3775667861" seo="true" mt="1587336880165" redirect="true"/>
-  <file name="intro.html" crc="4221667235" seo="true" mt="1587507392446" redirect="true"/>
+  <file name="index.html" crc="424965035" seo="true" mt="1587686299797" redirect="true"/>
+  <file name="intro.html" crc="3994390696" seo="true" mt="1587686295892" redirect="true"/>
 </manifest>
