@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1588423125524">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1588470365971">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4162461170" ref="index"/>
     <file name="intro.css" crc="4080721822" ref="intro"/>
-    <file name="intro-2.css" crc="294712419" ref="intro-2"/>
+    <file name="intro-2.css" crc="22540776" ref="intro-2"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="354807831" seo="true" mt="1588390658000"/>
@@ -1211,10 +1211,10 @@
     <file name="1c_2x.gif" crc="2002595" seo="true" ref="intro-2">
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="2d.gif" crc="77172147" seo="true" ref="intro-2">
+    <file name="2d.gif" crc="213650022" seo="true" ref="intro-2">
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="2d_2x.gif" crc="77172147" seo="true" ref="intro-2">
+    <file name="2d_2x.gif" crc="213650022" seo="true" ref="intro-2">
       <caption webpage="intro-2" alt=""/>
     </file>
     <file name="2b_2x.gif" crc="225916981" seo="true" ref="intro-2">
@@ -1253,5 +1253,5 @@
   </folder>
   <file name="index.html" crc="3927230599" seo="true" mt="1588417000200" redirect="true"/>
   <file name="intro.html" crc="4269418439" seo="true" mt="1588418057902" redirect="true"/>
-  <file name="intro-2.html" crc="329738437" seo="true" mt="1588423026519" redirect="true"/>
+  <file name="intro-2.html" crc="13044770" seo="true" mt="1588470324827" redirect="true"/>
 </manifest>
