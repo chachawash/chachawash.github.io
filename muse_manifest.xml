@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1588470365971">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1588471819147">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4162461170" ref="index"/>
     <file name="intro.css" crc="4080721822" ref="intro"/>
-    <file name="intro-2.css" crc="22540776" ref="intro-2"/>
+    <file name="intro-2.css" crc="316687677" ref="intro-2"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="354807831" seo="true" mt="1588390658000"/>
@@ -1052,7 +1052,7 @@
       <caption webpage="intro-2" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="2c.gif" crc="68748475" seo="true" ref="intro-2">
+    <file name="2c.gif" crc="4029703770" seo="true" ref="intro-2">
       <caption webpage="intro-2" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
@@ -1220,7 +1220,7 @@
     <file name="2b_2x.gif" crc="225916981" seo="true" ref="intro-2">
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="2c_2x.gif" crc="68748475" seo="true" ref="intro-2">
+    <file name="2c_2x.gif" crc="4029703770" seo="true" ref="intro-2">
       <caption webpage="intro-2" alt=""/>
     </file>
     <file name="2a_2x.gif" crc="173852179" seo="true" ref="intro-2">
@@ -1253,5 +1253,5 @@
   </folder>
   <file name="index.html" crc="3927230599" seo="true" mt="1588417000200" redirect="true"/>
   <file name="intro.html" crc="4269418439" seo="true" mt="1588418057902" redirect="true"/>
-  <file name="intro-2.html" crc="13044770" seo="true" mt="1588470324827" redirect="true"/>
+  <file name="intro-2.html" crc="127237150" seo="true" mt="1588471782471" redirect="true"/>
 </manifest>
