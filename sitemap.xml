@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chachawash.github.io/index.html</loc>
-    <lastmod>2020-05-02</lastmod>
+    <lastmod>2020-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -111,9 +111,6 @@
       <image:loc>https://chachawash.github.io/images/jp-03b-w_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/gif-3a.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/gif-3b.gif</image:loc>
     </image:image>
     <image:image>
@@ -196,6 +193,9 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-messanger-w_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/gif-2a.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-instagram-w.gif</image:loc>

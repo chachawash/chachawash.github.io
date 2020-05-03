@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1588471819147">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1588473127556">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4162461170" ref="index"/>
+    <file name="index.css" crc="3963101921" ref="index"/>
     <file name="intro.css" crc="4080721822" ref="intro"/>
     <file name="intro-2.css" crc="316687677" ref="intro-2"/>
   </folder>
@@ -153,7 +153,7 @@
     <file name="jp-03b-w_2x.png" crc="4226810521" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-3a.gif" crc="3969445783" seo="true" ref="index:intro:intro-2">
+    <file name="gif-3a.gif" crc="3969445783" seo="true" ref="intro:intro-2">
       <caption webpage="index" alt=""/>
       <caption webpage="intro-2" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -430,9 +430,10 @@
       <caption webpage="intro-2" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="gif-2a.gif" crc="4161268563" seo="true" ref="intro:intro-2">
+    <file name="gif-2a.gif" crc="4161268563" seo="true" ref="intro:intro-2:index">
       <caption webpage="intro-2" alt=""/>
       <caption webpage="intro" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="icon-2b.gif" crc="3802187798" seo="true" ref="intro:intro-2">
       <caption webpage="intro-2" alt=""/>
@@ -1251,7 +1252,7 @@
       <caption webpage="intro-2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3927230599" seo="true" mt="1588417000200" redirect="true"/>
+  <file name="index.html" crc="3805525946" seo="true" mt="1588473095269" redirect="true"/>
   <file name="intro.html" crc="4269418439" seo="true" mt="1588418057902" redirect="true"/>
   <file name="intro-2.html" crc="127237150" seo="true" mt="1588471782471" redirect="true"/>
 </manifest>
