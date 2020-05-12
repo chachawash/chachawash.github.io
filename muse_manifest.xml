@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1589288535240">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1589290508869">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="108898012" ref="index"/>
@@ -21,7 +21,7 @@
     <file name="require.js" crc="7928878" ref="index:intro:intro-2"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3869808481" ref="index:intro"/>
     <file name="company-logotype-w.png" crc="4271495680" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -390,11 +390,11 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="jp-note-01b.png" crc="4156809837" seo="true" ref="intro:intro-2">
+    <file name="jp-note-01b.png" crc="4220305806" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="jp-note-01b_2x.png" crc="485773468" seo="true" ref="intro:intro-2">
+    <file name="jp-note-01b_2x.png" crc="465963796" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
@@ -847,27 +847,27 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="pic-manual-1.jpg" crc="418490266" seo="true" ref="intro:intro-2">
+    <file name="pic-manual-1.jpg" crc="110915197" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="pic-manual-1_2x.jpg" crc="220626090" seo="true" ref="intro:intro-2">
+    <file name="pic-manual-1_2x.jpg" crc="105129847" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="pic-manual-2.jpg" crc="4191833906" seo="true" ref="intro:intro-2">
+    <file name="pic-manual-2.jpg" crc="4094100409" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="pic-manual-2_2x.jpg" crc="44077663" seo="true" ref="intro:intro-2">
+    <file name="pic-manual-2_2x.jpg" crc="32333264" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="pic-manual-3.jpg" crc="371319321" seo="true" ref="intro:intro-2">
+    <file name="pic-manual-3.jpg" crc="4148599829" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
-    <file name="pic-manual-3_2x.jpg" crc="127074547" seo="true" ref="intro:intro-2">
+    <file name="pic-manual-3_2x.jpg" crc="4195370368" seo="true" ref="intro:intro-2">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro-2" alt=""/>
     </file>
@@ -1243,6 +1243,6 @@
     </file>
   </folder>
   <file name="index.html" crc="3910903437" seo="true" mt="1589287161185" redirect="true"/>
-  <file name="intro.html" crc="182004943" seo="true" mt="1589288433787" redirect="true"/>
-  <file name="intro-2.html" crc="3911664954" seo="true" mt="1589287657238" redirect="true"/>
+  <file name="intro.html" crc="4137044143" seo="true" mt="1589290477179" redirect="true"/>
+  <file name="intro-2.html" crc="3803130886" seo="true" mt="1589290477386" redirect="true"/>
 </manifest>
