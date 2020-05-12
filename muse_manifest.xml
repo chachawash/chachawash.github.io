@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1589260630539">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1589269180369">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4146955776" ref="index"/>
-    <file name="intro.css" crc="62647316" ref="intro"/>
+    <file name="index.css" crc="108898012" ref="index"/>
+    <file name="intro.css" crc="482104578" ref="intro"/>
     <file name="intro-2.css" crc="316687677" ref="intro-2"/>
   </folder>
   <folder name="assets">
@@ -1065,11 +1065,11 @@
       <caption webpage="intro-2" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-12a.png" crc="439790975" seo="true" ref="index">
+    <file name="jp-12a.png" crc="27621797" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-12a_2x.png" crc="238665655" seo="true" ref="index">
+    <file name="jp-12a_2x.png" crc="35827013" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
@@ -1115,10 +1115,10 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-12a-b.png" crc="104563442" seo="true" ref="intro">
+    <file name="jp-12a-b.png" crc="4158922811" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-12a-b_2x.png" crc="4156452773" seo="true" ref="intro">
+    <file name="jp-12a-b_2x.png" crc="353436392" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="00a-gentle.jpg" crc="3769367756" seo="true" ref="intro-2">
@@ -1242,7 +1242,7 @@
       <caption webpage="intro-2" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="94191184" seo="true" mt="1589260585057" redirect="true"/>
-  <file name="intro.html" crc="4097350919" seo="true" mt="1589260598902" redirect="true"/>
+  <file name="index.html" crc="27854039" seo="true" mt="1589269134292" redirect="true"/>
+  <file name="intro.html" crc="3819804064" seo="true" mt="1589269148791" redirect="true"/>
   <file name="intro-2.html" crc="38120989" seo="true" mt="1588471782471" redirect="true"/>
 </manifest>
