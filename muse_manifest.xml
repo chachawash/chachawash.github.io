@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591287313712">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591288526539">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="33078401" ref="index"/>
-    <file name="intro.css" crc="177697334" ref="intro"/>
+    <file name="index.css" crc="3780473793" ref="index"/>
+    <file name="intro.css" crc="4115006870" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -78,7 +78,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-00a-line.png" crc="99721307" seo="true" ref="index:intro">
+    <file name="jp-00a-line.png" crc="419035431" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -87,7 +87,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-00a-line_2x.png" crc="3761568213" seo="true" ref="index:intro">
+    <file name="jp-00a-line_2x.png" crc="100417840" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -111,10 +111,10 @@
     <file name="jp-02d1_2x.png" crc="453680064" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02c.png" crc="3817167676" seo="true" ref="index">
+    <file name="jp-02c.png" crc="132187710" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02c_2x.png" crc="67357124" seo="true" ref="index">
+    <file name="jp-02c_2x.png" crc="221021290" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pic-seed.jpg" crc="393680482" seo="true" ref="index">
@@ -575,10 +575,10 @@
       <caption webpage="intro" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="intro"/>
-    <file name="jp-11a.png" crc="3956406374" seo="true" ref="intro">
+    <file name="jp-11a.png" crc="6357539" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-11a_2x.png" crc="3956406374" seo="true" ref="intro">
+    <file name="jp-11a_2x.png" crc="247730949" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="company-logotype109x180.png" crc="3820590461" seo="true" ref="intro">
@@ -672,6 +672,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="268594668" seo="true" mt="1591287299836" redirect="true"/>
-  <file name="intro.html" crc="4011777275" seo="true" mt="1591287105909" redirect="true"/>
+  <file name="index.html" crc="181838319" seo="true" mt="1591288454031" redirect="true"/>
+  <file name="intro.html" crc="419150304" seo="true" mt="1591288496603" redirect="true"/>
 </manifest>
