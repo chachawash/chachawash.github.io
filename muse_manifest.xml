@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591275021490">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591276774661">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="5240844" ref="index"/>
+    <file name="index.css" crc="201914161" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="3963335413" seo="true" mt="1591238928000"/>
@@ -19,7 +19,7 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
+    <file name="a-master-favicon.ico" crc="132953600" ref="index"/>
     <file name="company-logotype.png" crc="442274002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -32,10 +32,10 @@
     <file name="jp-02b1_2x.png" crc="145893197" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02b0a.png" crc="27936289" seo="true" ref="index">
+    <file name="jp-02b0a.png" crc="4064999903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02b0a_2x.png" crc="54651937" seo="true" ref="index">
+    <file name="jp-02b0a_2x.png" crc="4132006016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="makuake-b.png" crc="4005162252" seo="true" ref="index">
@@ -593,5 +593,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3817729726" seo="true" mt="1591275001112" redirect="true"/>
+  <file name="index.html" crc="4160326041" seo="true" mt="1591276692509" redirect="true"/>
 </manifest>
