@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591272813911">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591273162158">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="34955877" ref="index"/>
+    <file name="index.css" crc="156941265" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="3963335413" seo="true" mt="1591238928000"/>
@@ -626,5 +626,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4043127565" seo="true" mt="1591272765644" redirect="true"/>
+  <file name="index.html" crc="4041676505" seo="true" mt="1591273137494" redirect="true"/>
 </manifest>
