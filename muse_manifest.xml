@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591300253726">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591300500174">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="511809435" ref="index"/>
+    <file name="index.css" crc="4094972585" ref="index"/>
     <file name="intro.css" crc="4064025470" ref="intro"/>
   </folder>
   <folder name="scripts">
@@ -87,7 +87,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-09a.png" crc="429879998" seo="true" ref="index:intro">
+    <file name="jp-09a.png" crc="3955213376" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -95,7 +95,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-09a_2x.png" crc="4187963681" seo="true" ref="index:intro">
+    <file name="jp-09a_2x.png" crc="3785931112" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -672,6 +672,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="432639393" seo="true" mt="1591300147234" redirect="true"/>
-  <file name="intro.html" crc="3834436027" seo="true" mt="1591300230757" redirect="true"/>
+  <file name="index.html" crc="49238927" seo="true" mt="1591300480286" redirect="true"/>
+  <file name="intro.html" crc="3831917510" seo="true" mt="1591300438546" redirect="true"/>
 </manifest>
