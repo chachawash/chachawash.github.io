@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591299805420">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1591300253726">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3803824166" ref="index"/>
-    <file name="intro.css" crc="4115006870" ref="intro"/>
+    <file name="index.css" crc="511809435" ref="index"/>
+    <file name="intro.css" crc="4064025470" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -17,7 +17,7 @@
     <file name="require.js" crc="7928878" ref="index:intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="132953600" ref="index:intro"/>
+    <file name="a-master-favicon.ico" crc="132953600" ref="index"/>
     <file name="company-logotype.png" crc="442274002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -103,7 +103,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-00a-line.png" crc="105271496" seo="true" ref="index:intro">
+    <file name="jp-00a-line.png" crc="312981337" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -111,7 +111,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-00a-line_2x.png" crc="534435812" seo="true" ref="index:intro">
+    <file name="jp-00a-line_2x.png" crc="78543179" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -672,6 +672,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3910645718" seo="true" mt="1591299571362" redirect="true"/>
-  <file name="intro.html" crc="3886510127" seo="true" mt="1591299718357" redirect="true"/>
+  <file name="index.html" crc="432639393" seo="true" mt="1591300147234" redirect="true"/>
+  <file name="intro.html" crc="3834436027" seo="true" mt="1591300230757" redirect="true"/>
 </manifest>
