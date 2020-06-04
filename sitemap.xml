@@ -438,51 +438,6 @@
       <image:loc>https://chachawash.github.io/images/jp-intro-05a_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-1a.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-1a_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-03a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-03a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/gif-1a.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-1b.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-1b_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-03b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-03b_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/gif-1b.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-1c.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/icon-1c_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-03c.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-03c_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/gif-1c.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/00j-gdm.jpg</image:loc>
     </image:image>
     <image:image>
@@ -607,6 +562,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-email_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/pic-cubes.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/pic-cubes_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
