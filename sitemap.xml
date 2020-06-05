@@ -80,6 +80,12 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-00a-buy_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-02e-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-02e-w_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://chachawash.github.io/intro.html</loc>
