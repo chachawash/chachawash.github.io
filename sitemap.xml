@@ -69,16 +69,16 @@
       <image:loc>https://chachawash.github.io/images/jp-09a_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-00a-line.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-00a-line_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/pic-powder-cube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/pic-powder-cube_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-00a-buy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-00a-buy_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -97,12 +97,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-09a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-00a-line.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-00a-line_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/company-logotype111x185.png</image:loc>
@@ -649,6 +643,12 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-email_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-00a-buy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-00a-buy_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
