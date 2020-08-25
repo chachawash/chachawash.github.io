@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1598370629166">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1598372869795">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4137163851" ref="index"/>
+    <file name="index.css" crc="3850641438" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -293,35 +293,29 @@
     <file name="jp-f-4_2x.png" crc="414395831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-f-cubes.jpg" crc="10311590" seo="true" ref="index">
+    <file name="pic-g-manual-1.jpg" crc="1584492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-f-cubes_2x.jpg" crc="3940532655" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic-manual-1.jpg" crc="4251698154" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic-manual-1_2x.jpg" crc="3781148809" seo="true" ref="index">
+    <file name="pic-g-manual-1_2x.jpg" crc="4065467482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="pic-manual-2.jpg" crc="4148545240" seo="true" ref="index">
+    <file name="pic-g-manual-2.jpg" crc="197764427" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-manual-2_2x.jpg" crc="3894724823" seo="true" ref="index">
+    <file name="pic-g-manual-2_2x.jpg" crc="35651938" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-manual-3.jpg" crc="4243755350" seo="true" ref="index">
+    <file name="pic-g-manual-3.jpg" crc="379729689" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-manual-3_2x.jpg" crc="251713885" seo="true" ref="index">
+    <file name="pic-g-manual-3_2x.jpg" crc="3863339304" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-manual-4.jpg" crc="3891093778" seo="true" ref="index">
+    <file name="pic-g-manual-4.jpg" crc="227610019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-manual-4_2x.jpg" crc="474764736" seo="true" ref="index">
+    <file name="pic-g-manual-4_2x.jpg" crc="4002704183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -329,6 +323,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-g_2x.png" crc="247730949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-f-cubes.jpg" crc="10311590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-f-cubes_2x.jpg" crc="3940532655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-bottom-instagram.gif" crc="3762143794" seo="true" ref="index">
@@ -356,5 +356,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="498952406" seo="true" mt="1598370592605" redirect="true"/>
+  <file name="index.html" crc="188125486" seo="true" mt="1598372841257" redirect="true"/>
 </manifest>
