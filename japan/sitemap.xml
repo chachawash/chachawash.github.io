@@ -39,9 +39,6 @@
       <image:loc>https://chachawash.github.io/images/jp-b-1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-b-2.png</image:loc>
     </image:image>
     <image:image>
@@ -54,10 +51,22 @@
       <image:loc>https://chachawash.github.io/images/pic-b-making_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-7.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/pic-b-seed.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-7_2x.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/pic-b-seed_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-b-3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-b-3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-b-4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-b-4_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-b-5.png</image:loc>
@@ -72,22 +81,10 @@
       <image:loc>https://chachawash.github.io/images/jp-b-6_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/pic-b-seed.jpg</image:loc>
+      <image:loc>https://chachawash.github.io/images/jp-b-7.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/pic-b-seed_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-4_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-3_2x.png</image:loc>
+      <image:loc>https://chachawash.github.io/images/jp-b-7_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-b-8.png</image:loc>
@@ -103,9 +100,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-c-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-c-1_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-c-2.png</image:loc>
@@ -165,9 +159,6 @@
       <image:loc>https://chachawash.github.io/images/jp-d-1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-d-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-d-5.png</image:loc>
     </image:image>
     <image:image>
@@ -219,9 +210,6 @@
       <image:loc>https://chachawash.github.io/images/jp-e-1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-e-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-e-2.png</image:loc>
     </image:image>
     <image:image>
@@ -261,9 +249,6 @@
       <image:loc>https://chachawash.github.io/images/jp-f-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-f-1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-f-2.png</image:loc>
     </image:image>
     <image:image>
@@ -271,9 +256,6 @@
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-f-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-f-3_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-f-4.png</image:loc>
