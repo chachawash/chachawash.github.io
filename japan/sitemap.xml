@@ -36,6 +36,9 @@
       <image:loc>https://chachawash.github.io/images/jp-b-1.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-b-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-b-2.png</image:loc>
     </image:image>
     <image:image>
@@ -93,6 +96,9 @@
       <image:loc>https://chachawash.github.io/images/jp-c-1.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-c-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-c-2.png</image:loc>
     </image:image>
     <image:image>
@@ -144,6 +150,9 @@
       <image:loc>https://chachawash.github.io/images/jp-d-1.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-d-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-d-5.png</image:loc>
     </image:image>
     <image:image>
@@ -186,6 +195,9 @@
       <image:loc>https://chachawash.github.io/images/jp-e-1.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-e-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-e-2.png</image:loc>
     </image:image>
     <image:image>
@@ -216,10 +228,22 @@
       <image:loc>https://chachawash.github.io/images/jp-e-5_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-f-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-f-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/jp-f-2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-f-2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-f-3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/jp-f-3_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/jp-f-4.png</image:loc>
@@ -261,40 +285,28 @@
       <image:loc>https://chachawash.github.io/images/pic-f-cubes.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-b-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-c-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-d-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-e-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-f-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-f-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-f-3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://chachawash.github.io/images/jp-f-3_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-bottom-instagram_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-facebook.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-bottom-facebook_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-messanger.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-bottom-messanger_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://chachawash.github.io/images/icon-bottom-email.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/icon-bottom-email_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
