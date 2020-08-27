@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1598453126699">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1598530721017">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3795262263" ref="index"/>
+    <file name="index.css" crc="3946370255" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,16 +29,16 @@
     <file name="hero_2x.jpg" crc="14147309" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-a-2.png" crc="3969864761" seo="true" ref="index">
+    <file name="jp-a-2.png" crc="4142561331" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-a-2_2x.png" crc="328190028" seo="true" ref="index">
+    <file name="jp-a-2_2x.png" crc="7632590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-a-1.png" crc="4040753234" seo="true" ref="index">
+    <file name="jp-a-1.png" crc="4276683302" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-a-1_2x.png" crc="4274944626" seo="true" ref="index">
+    <file name="jp-a-1_2x.png" crc="340755027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-01.png" crc="4124090786" seo="true" ref="index">
@@ -356,5 +356,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4024176100" seo="true" mt="1598453089570" redirect="true"/>
+  <file name="index.html" crc="95395924" seo="true" mt="1598530707804" redirect="true"/>
 </manifest>
