@@ -311,5 +311,23 @@
     <image:image>
       <image:loc>https://chachawash.github.io/images/photo-baby_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/tw-note-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/tw-note-a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/tw-note-b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/tw-note-b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/tw-note-c.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://chachawash.github.io/images/tw-note-c_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>

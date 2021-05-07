@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1620376067844">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1620381294465">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="358765278" ref="index"/>
+    <file name="index.css" crc="112503482" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -307,18 +307,36 @@
     <file name="photo-dishwasher_2x.jpg" crc="528095431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-kitchen.jpg" crc="4128576276" seo="true" ref="index">
+    <file name="photo-kitchen.jpg" crc="401081496" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-kitchen_2x.jpg" crc="3802515336" seo="true" ref="index">
+    <file name="photo-kitchen_2x.jpg" crc="4285942831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-baby.jpg" crc="217679685" seo="true" ref="index">
+    <file name="photo-baby.jpg" crc="521528387" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-baby_2x.jpg" crc="4125851582" seo="true" ref="index">
+    <file name="photo-baby_2x.jpg" crc="3812475154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-note-a.png" crc="4072009785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-note-a_2x.png" crc="317496878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-note-b.png" crc="188388977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-note-b_2x.png" crc="4189048303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-note-c.png" crc="5066195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-note-c_2x.png" crc="222799539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3939629533" seo="true" mt="1620376050011" redirect="true"/>
+  <file name="index.html" crc="3971608576" seo="true" mt="1620381273919" redirect="true"/>
 </manifest>
