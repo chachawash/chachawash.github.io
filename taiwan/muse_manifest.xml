@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1620392171715">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1620560849658">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4098970625" ref="index"/>
+    <file name="index.css" crc="3980351801" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,10 +31,10 @@
     <file name="tw-a-2_2x.png" crc="11229527" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-a-1.png" crc="4221305918" seo="true" ref="index">
+    <file name="tw-a-1.png" crc="3795316058" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-a-1_2x.png" crc="4129732374" seo="true" ref="index">
+    <file name="tw-a-1_2x.png" crc="3879782185" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-01.png" crc="3785714057" seo="true" ref="index">
@@ -337,6 +337,54 @@
     <file name="tw-note-c_2x.png" crc="442875513" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-05.png" crc="4036833655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-05_2x.png" crc="4036833655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-1.png" crc="4198078546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-1_2x.png" crc="19614667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-2.png" crc="200655204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-2_2x.png" crc="4225071791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-3.png" crc="3888696692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-3_2x.png" crc="4109557422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-4.png" crc="130521965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-4_2x.png" crc="208141501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-5.png" crc="3841325600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-5_2x.png" crc="8533367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-6.png" crc="3958366824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-6_2x.png" crc="217829844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-7.png" crc="4109344502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-h-7_2x.png" crc="3767828839" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4132261115" seo="true" mt="1620392155031" redirect="true"/>
+  <file name="index.html" crc="3835407973" seo="true" mt="1620560818217" redirect="true"/>
 </manifest>
