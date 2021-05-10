@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1620612158823">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1620654562569">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="283412171" ref="index"/>
+    <file name="index.css" crc="431768444" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -385,6 +385,24 @@
     <file name="tw-h-7_2x.png" crc="3767828839" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="tw-0-1.png" crc="536069618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-0-1_2x.png" crc="4263050097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-0-chemicals.jpg" crc="527030854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-0-chemicals_2x.jpg" crc="167060036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-0-2.png" crc="4010335284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-0-2_2x.png" crc="4141059168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4066031002" seo="true" mt="1620612136372" redirect="true"/>
+  <file name="index.html" crc="3764527772" seo="true" mt="1620654483913" redirect="true"/>
 </manifest>
