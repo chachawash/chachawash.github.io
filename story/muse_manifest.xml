@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642742707462">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642744948445">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="52915982" ref="index"/>
+    <file name="index.css" crc="100857312" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -50,15 +50,15 @@
     <file name="p2-06_2x.png" crc="3967581559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mask.png" crc="536684874" seo="true" ref="index">
+    <file name="mask.png" crc="3846868996" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="page.png" crc="248154989" seo="true" ref="index">
+    <file name="page.png" crc="320999997" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="page_2x.png" crc="70755116" seo="true" ref="index">
+    <file name="page_2x.png" crc="4165972487" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4134079468" seo="true" mt="1642742698322" redirect="true"/>
+  <file name="index.html" crc="213963343" seo="true" mt="1642744939104" redirect="true"/>
 </manifest>
