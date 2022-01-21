@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642741418797">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642741831295">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
     <file name="index.css" crc="52915982" ref="index"/>
@@ -60,5 +60,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="503747081" seo="true" mt="1642741297562" redirect="true"/>
+  <file name="index.html" crc="3886509676" seo="true" mt="1642741810037" redirect="true"/>
 </manifest>
