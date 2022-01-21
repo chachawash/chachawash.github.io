@@ -1,0 +1,64 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642741418797">
+  <folder name="css">
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="52915982" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="index-favicon.ico" crc="4202867628" ref="index"/>
+    <file name="p2-01.jpg" crc="4074690599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-01_2x.jpg" crc="241749350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-02.png" crc="285693477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-02_2x.png" crc="4044079546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-03.png" crc="493876568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-03_2x.png" crc="470469338" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-04.png" crc="443231095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-04_2x.png" crc="3955127684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-05.png" crc="4047794151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-05_2x.png" crc="513037569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-06.png" crc="463282910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2-06_2x.png" crc="3967581559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mask.png" crc="331990429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="page.png" crc="248154989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="page_2x.png" crc="70755116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="503747081" seo="true" mt="1642741297562" redirect="true"/>
+</manifest>
