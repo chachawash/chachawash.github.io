@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642744948445">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642750586999">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="100857312" ref="index"/>
+    <file name="index.css" crc="4214794994" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,43 +14,43 @@
   </folder>
   <folder name="images">
     <file name="index-favicon.ico" crc="4202867628" ref="index"/>
-    <file name="p2-01.jpg" crc="4074690599" seo="true" ref="index">
+    <file name="p2-01.jpg" crc="3901824646" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-01_2x.jpg" crc="241749350" seo="true" ref="index">
+    <file name="p2-01_2x.jpg" crc="467461312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-02.png" crc="285693477" seo="true" ref="index">
+    <file name="p2-02.png" crc="3821414539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-02_2x.png" crc="4044079546" seo="true" ref="index">
+    <file name="p2-02_2x.png" crc="380051928" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-03.png" crc="4271289983" seo="true" ref="index">
+    <file name="p2-03.png" crc="4168782738" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-03_2x.png" crc="103156220" seo="true" ref="index">
+    <file name="p2-03_2x.png" crc="62237785" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-04.png" crc="3905818699" seo="true" ref="index">
+    <file name="p2-04.png" crc="3944194594" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-04_2x.png" crc="381622105" seo="true" ref="index">
+    <file name="p2-04_2x.png" crc="43490647" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-05.png" crc="4047794151" seo="true" ref="index">
+    <file name="p2-05.png" crc="3848012163" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-05_2x.png" crc="513037569" seo="true" ref="index">
+    <file name="p2-05_2x.png" crc="4214329046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-06.png" crc="463282910" seo="true" ref="index">
+    <file name="p2-06.png" crc="4046315854" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p2-06_2x.png" crc="3967581559" seo="true" ref="index">
+    <file name="p2-06_2x.png" crc="3912670755" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mask.png" crc="3846868996" seo="true" ref="index">
+    <file name="mask.png" crc="4056599017" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="page.png" crc="320999997" seo="true" ref="index">
@@ -60,5 +60,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="213963343" seo="true" mt="1642744939104" redirect="true"/>
+  <file name="index.html" crc="4191394188" seo="true" mt="1642750580879" redirect="true"/>
 </manifest>
