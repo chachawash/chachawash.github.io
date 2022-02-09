@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642753110172">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="chachawash.github.io" resolutions="1x,2x" timestamp="1642806137484">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3845354993" ref="index"/>
+    <file name="index.css" crc="128655944" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -60,5 +60,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="90297126" seo="true" mt="1642753103693" redirect="true"/>
+  <file name="index.html" crc="75218134" seo="true" mt="1642806130282" redirect="true"/>
 </manifest>
