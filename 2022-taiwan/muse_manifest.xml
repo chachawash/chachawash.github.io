@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1645613062910">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1645628588943">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3888201952" ref="index"/>
+    <file name="index.css" crc="483045539" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -49,25 +49,16 @@
     <file name="tw-2022-b-1_2x.png" crc="4233961624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-2022-b-2.png" crc="4183348011" seo="true" ref="index">
+    <file name="tw-2022-b-2.png" crc="3808566789" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-2022-b-2_2x.png" crc="4098389650" seo="true" ref="index">
+    <file name="tw-2022-b-2_2x.png" crc="414939217" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-2022-b-camellia.jpg" crc="3912026749" seo="true" ref="index">
+    <file name="tw-2022-b-3.png" crc="4276741698" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-b-3.png" crc="3925355984" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tw-b-3_2x.png" crc="463507693" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tw-2022-b-3.png" crc="143955278" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tw-2022-b-3_2x.png" crc="494522132" seo="true" ref="index">
+    <file name="tw-2022-b-3_2x.png" crc="321514584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pic-2022-c-powder-cube.jpg" crc="323997422" seo="true" ref="index">
@@ -100,10 +91,10 @@
     <file name="tw-f-4_2x.png" crc="3912981998" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-f-cubes.jpg" crc="474363429" seo="true" ref="index">
+    <file name="pic-f-cubes.jpg" crc="3969578335" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-f-cubes_2x.jpg" crc="4017092244" seo="true" ref="index">
+    <file name="pic-f-cubes_2x.jpg" crc="3781898236" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-bottom-instagram.png" crc="329375301" seo="true" ref="index">
@@ -130,6 +121,30 @@
     <file name="icon-bottom-email_2x.png" crc="234554690" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pic-2022-b-1-camellia.jpg" crc="411944038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-2022-b-1-camellia_2x.jpg" crc="4265704646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-2022-b-2-seeds.jpg" crc="4028685010" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-2022-b-2-seeds_2x.jpg" crc="42386834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-2022-b-4.png" crc="4017500303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-2022-b-4_2x.png" crc="483124716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-2022-b-5.png" crc="4146327438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tw-2022-b-5_2x.png" crc="39156357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="25270187" seo="true" mt="1645613053692" redirect="true"/>
+  <file name="index.html" crc="382006830" seo="true" mt="1645628579802" redirect="true"/>
 </manifest>
