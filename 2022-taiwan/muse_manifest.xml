@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1645609844395">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1645610223265">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="316105162" ref="index"/>
+    <file name="index.css" crc="4261378741" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -58,7 +58,7 @@
     <file name="pic-2022-b-camellia.jpg" crc="3912026749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-b-3.png" crc="3851094636" seo="true" ref="index">
+    <file name="tw-b-3.png" crc="3925355984" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tw-b-3_2x.png" crc="463507693" seo="true" ref="index">
@@ -131,5 +131,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="129195306" seo="true" mt="1645609705785" redirect="true"/>
+  <file name="index.html" crc="354055682" seo="true" mt="1645610214084" redirect="true"/>
 </manifest>
