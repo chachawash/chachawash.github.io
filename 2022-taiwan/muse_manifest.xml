@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1645628588943">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1645629163533">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="483045539" ref="index"/>
@@ -25,10 +25,10 @@
     <file name="hero_2x.jpg" crc="14147309" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-2022-a-2.png" crc="347281476" seo="true" ref="index">
+    <file name="tw-2022-a-2.png" crc="389158548" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tw-2022-a-2_2x.png" crc="3853892055" seo="true" ref="index">
+    <file name="tw-2022-a-2_2x.png" crc="370757011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tw-2022-a-1.png" crc="4204608196" seo="true" ref="index">
@@ -146,5 +146,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="382006830" seo="true" mt="1645628579802" redirect="true"/>
+  <file name="index.html" crc="70484735" seo="true" mt="1645629129817" redirect="true"/>
 </manifest>
